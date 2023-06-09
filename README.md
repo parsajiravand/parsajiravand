@@ -3,9 +3,8 @@
 Hello! I'm Parsa Jiravand, and this is my GitHub repository. I am passionate about coding, problem-solving, and building amazing software applications. I love to explore different technologies and share my knowledge with the community.
 
 ## GitHub Statistics :chart_with_upwards_trend:
-
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parsajiravand&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parsajiravand&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
 <p>
@@ -13,10 +12,9 @@ Hello! I'm Parsa Jiravand, and this is my GitHub repository. I am passionate abo
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parsajiravand&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parsajiravand&theme=dark" alt="GitHub Streak" />
 </p>
 
-<!-- add github-profile-trophy with style -->
 <p>
   <img src="https://github-profile-trophy.vercel.app/?username=parsajiravand&theme=darkhub&no-frame=true&margin-w=30&margin-h=30&column=7" alt="GitHub Profile Trophy" />
 </p>
