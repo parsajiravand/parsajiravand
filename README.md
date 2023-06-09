@@ -1,28 +1,18 @@
-# Welcome to the GitHub Repository of Parsa Jiravand! :wave: :rocket:
-
-## About Me
+## About Me :wave: :rocket:
 
 Hello! I'm Parsa Jiravand, and this is my GitHub repository. I am passionate about coding, problem-solving, and building amazing software applications. I love to explore different technologies and share my knowledge with the community.
 
-## Repository Contents :file_folder:
-
-Here, you'll find a variety of projects, code snippets, and experiments that I have worked on. Each project has its own folder with a detailed README file explaining its purpose, features, and how to get started. Feel free to explore the repositories and provide feedback or suggestions.
-
-## Contributions :raised_hands:
-
-I value collaboration and open-source development. If you find any issues, bugs, or have suggestions for improvements in any of the projects, please feel free to create an issue or submit a pull request. I appreciate your contributions and the opportunity to learn from each other.
-
 ## GitHub Statistics :chart_with_upwards_trend:
 
-<p align="center">
+<p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=parsajiravand&theme=dark" alt="GitHub Streak" />
 </p>
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=parsajiravand&show_icons=true&count_private=true&include_all_commits=true&theme=dark" alt="GitHub Stats" />
 </p>
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parsajiravand&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
@@ -67,6 +57,14 @@ Here are some of the technologies that I have worked with:
   <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
   <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+  
+## Repository Contents :file_folder:
+
+Here, you'll find a variety of projects, code snippets, and experiments that I have worked on. Each project has its own folder with a detailed README file explaining its purpose, features, and how to get started. Feel free to explore the repositories and provide feedback or suggestions.
+
+## Contributions :raised_hands:
+
+I value collaboration and open-source development. If you find any issues, bugs, or have suggestions for improvements in any of the projects, please feel free to create an issue or submit a pull request. I appreciate your contributions and the opportunity to learn from each other.
 
 ## Contact :email: :iphone: :speech_balloon:
 
@@ -84,3 +82,5 @@ If you have any questions, suggestions, or just want to connect with me, you can
 Unless otherwise stated, the code and projects in this repository are licensed under the [MIT License](LICENSE). Feel free to use the code, modify it, and distribute it as per the terms of the license.
 
 Thank you for visiting my GitHub repository, and I hope you find something interesting and useful here. Happy coding! :sparkles: :computer:
+  
+Parsa Jiravand
