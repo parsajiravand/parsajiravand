@@ -1,8 +1,14 @@
 ## About Me :wave: :rocket:
 
-Hello! I'm Parsa Jiravand, and this is my GitHub repository. I am passionate about coding, problem-solving, and building amazing software applications. I love to explore different technologies and share my knowledge with the community.
+Hello! I'm Parsa Jiravand, a passionate full-stack developer dedicated to building innovative software solutions. I love exploring cutting-edge technologies, solving complex problems, and creating applications that make a real impact. With expertise in modern web frameworks and a commitment to clean code, I'm always eager to learn and collaborate with the community.
+
+## Current Projects & Initiatives :bulb:
+
+### GodPlans
+I'm actively contributing to **GodPlans**, an ambitious project aimed at creating intelligent, user-centric planning and productivity solutions. This project showcases my commitment to building scalable applications with modern technologies and best practices.
 
 ## GitHub Statistics :chart_with_upwards_trend:
+
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parsajiravand&layout=compact&theme=dark" alt="Top Languages" />
 </p>
@@ -55,30 +61,35 @@ Here are some of the technologies that I have worked with:
   <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
   <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
-  
+</p>
+
 ## Repository Contents :file_folder:
 
-Here, you'll find a variety of projects, code snippets, and experiments that I have worked on. Each project has its own folder with a detailed README file explaining its purpose, features, and how to get started. Feel free to explore the repositories and provide feedback or suggestions.
+This repository contains a diverse collection of projects, code snippets, and experiments that showcase my work across different domains. Each project is carefully organized with detailed documentation explaining its purpose, key features, and implementation details. Feel free to explore and learn from the code!
 
 ## Contributions :raised_hands:
 
-I value collaboration and open-source development. If you find any issues, bugs, or have suggestions for improvements in any of the projects, please feel free to create an issue or submit a pull request. I appreciate your contributions and the opportunity to learn from each other.
+I'm passionate about open-source development and collaborative problem-solving. If you discover any issues, bugs, or have innovative suggestions for improvements to any of my projects, I'd love to hear from you! Please don't hesitate to open an issue or submit a pull request. Your feedback and contributions are highly valued.
+
+## Articles & Blog :pencil:
+
+I regularly share my knowledge and insights on **[Dev.to](https://dev.to/parsajiravand)**. Check out my blog posts for tutorials, best practices, and deep dives into web development topics!
 
 ## Contact :email: :iphone: :speech_balloon:
 
-If you have any questions, suggestions, or just want to connect with me, you can reach out to me via the following channels:
-
-<!-- add icons for links -->
+I'm always open to new opportunities, collaborations, and interesting conversations. Feel free to reach out to me through any of these channels:
 
 - Email: [parsajiravand@gmail.com](mailto:parsajiravand@gmail.com) :email:
-- Website: [parsajiravand](https://parsajiravand.netlify.app/) :globe_with_meridians:
+- Dev.to: [parsajiravand](https://dev.to/parsajiravand) :pencil:
 - LinkedIn: [Parsa Jiravand](https://www.linkedin.com/in/parsa-jiravand) :briefcase:
 - Twitter: [@parsablk](https://twitter.com/parsablk) :bird:
 
 ## License :scroll:
 
-Unless otherwise stated, the code and projects in this repository are licensed under the [MIT License](LICENSE). Feel free to use the code, modify it, and distribute it as per the terms of the license.
+Unless otherwise stated, all code and projects in this repository are licensed under the [MIT License](LICENSE). You're free to use, modify, and distribute the code according to the license terms.
 
-Thank you for visiting my GitHub repository, and I hope you find something interesting and useful here. Happy coding! :sparkles: :computer:
-  
-Parsa Jiravand
+---
+
+Thank you for visiting my GitHub repository! I hope you find valuable insights and useful code here. If you enjoy what you see, feel free to star the repository and follow my work. Happy coding! :sparkles: :computer:
+
+**— Parsa Jiravand**
