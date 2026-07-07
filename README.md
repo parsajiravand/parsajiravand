@@ -1,11 +1,11 @@
 ## About Me :wave: :rocket:
 
-Hello! I'm Parsa Jiravand, a passionate full-stack developer dedicated to building innovative software solutions. I love exploring cutting-edge technologies, solving complex problems, and creating applications that make a real impact. With expertise in modern web frameworks and a commitment to clean code, I'm always eager to learn and collaborate with the community.
+Hello! I'm Parsa Jiravand, a passionate full-stack developer dedicated to building innovative software solutions. I love exploring cutting-edge technologies, solving complex problems, and creating [...]
 
 ## Current Projects & Initiatives :bulb:
 
 ### GodPlans
-I'm actively contributing to **GodPlans**, an ambitious project aimed at creating intelligent, user-centric planning and productivity solutions. This project showcases my commitment to building scalable applications with modern technologies and best practices.
+I'm actively contributing to **[GodPlans](https://github.com/god-plans)**, an ambitious project aimed at creating intelligent, user-centric planning and productivity solutions. This project showcases my commitment to building sca[...]
 
 ## GitHub Statistics :chart_with_upwards_trend:
 
@@ -65,11 +65,11 @@ Here are some of the technologies that I have worked with:
 
 ## Repository Contents :file_folder:
 
-This repository contains a diverse collection of projects, code snippets, and experiments that showcase my work across different domains. Each project is carefully organized with detailed documentation explaining its purpose, key features, and implementation details. Feel free to explore and learn from the code!
+This repository contains a diverse collection of projects, code snippets, and experiments that showcase my work across different domains. Each project is carefully organized with detailed document[...]
 
 ## Contributions :raised_hands:
 
-I'm passionate about open-source development and collaborative problem-solving. If you discover any issues, bugs, or have innovative suggestions for improvements to any of my projects, I'd love to hear from you! Please don't hesitate to open an issue or submit a pull request. Your feedback and contributions are highly valued.
+I'm passionate about open-source development and collaborative problem-solving. If you discover any issues, bugs, or have innovative suggestions for improvements to any of my projects, I'd love to[...]
 
 ## Articles & Blog :pencil:
 
@@ -90,6 +90,6 @@ Unless otherwise stated, all code and projects in this repository are licensed u
 
 ---
 
-Thank you for visiting my GitHub repository! I hope you find valuable insights and useful code here. If you enjoy what you see, feel free to star the repository and follow my work. Happy coding! :sparkles: :computer:
+Thank you for visiting my GitHub repository! I hope you find valuable insights and useful code here. If you enjoy what you see, feel free to star the repository and follow my work. Happy coding! :[...]
 
 **— Parsa Jiravand**
