@@ -1,0 +1,49 @@
+name: GitHub metrics
+
+# Renders assets/metrics.svg inside this repo and commits it.
+# This replaces the old github-readme-stats.vercel.app cards, which went down
+# (503 DEPLOYMENT_PAUSED) and took the stats + top-languages images with them.
+# Because the SVG lives in the repo, nothing external has to stay up for the
+# README to render.
+
+on:
+  schedule:
+    # Every day at 04:00 UTC.
+    - cron: "0 4 * * *"
+  push:
+    branches: [master]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate metrics
+        uses: lowlighter/metrics@v3.34
+        with:
+          # METRICS_TOKEN is a classic PAT with the `public_repo` scope. It is
+          # optional: without it this falls back to GITHUB_TOKEN, which renders
+          # public-repo stats fine but cannot see private contributions.
+          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
+          user: parsajiravand
+          filename: assets/metrics.svg
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: UTC
+          config_display: large
+
+          # Language breakdown — the replacement for the dead top-langs card.
+          plugin_languages: yes
+          plugin_languages_details: percentage
+          plugin_languages_limit: 8
+          plugin_languages_sections: most-used
+          plugin_languages_threshold: 1%
+
+          # Commit-time-of-day habits, a nicer signal than a raw commit count.
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 14
+          plugin_habits_charts: yes
