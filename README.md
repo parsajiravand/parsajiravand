@@ -105,11 +105,13 @@ these numbers stay current on their own.
   <img src="./assets/languages.svg" alt="Most used languages by bytes of code across public repositories" width="480" />
 </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=parsajiravand&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=parsajiravand&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-  <img src="https://streak-stats.demolab.com?user=parsajiravand&theme=dark&hide_border=true" alt="GitHub contribution streak" />
-</picture>
+<!--
+  A streak card used to sit here, pointing at streak-stats.demolab.com. Removed:
+  the origin answers in 27-30s and fails outright roughly two times in three, and
+  GitHub's camo image proxy gives up after about 4s — so it served a permanent 504
+  and rendered as a broken image. Curling the URL looks fine only because curl
+  waits. Commit activity is already covered by the metrics card above.
+-->
 
 </div>
 
