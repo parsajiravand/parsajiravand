@@ -97,7 +97,11 @@ these numbers stay current on their own.
 <div align="center">
 
 <!-- Both cards are generated inside this repo by GitHub Actions — no third-party uptime to depend on. -->
-<img src="./assets/metrics.svg" alt="GitHub activity and community stats" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/metrics-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/metrics.svg" />
+  <img src="./assets/metrics.svg" alt="GitHub activity and community stats" width="100%" />
+</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/languages-dark.svg" />

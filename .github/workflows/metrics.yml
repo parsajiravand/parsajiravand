@@ -26,7 +26,12 @@ jobs:
   metrics:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate metrics
+      # Rendered twice, because the SVG carries no background of its own and
+      # hardcodes its text colours. The light build uses #666 on transparent,
+      # which sits at roughly 2.6:1 against GitHub's dark canvas — readable in
+      # light mode, murky in dark. The README picks between them with
+      # prefers-color-scheme.
+      - name: Generate metrics (light)
         uses: lowlighter/metrics@v3.34
         with:
           # METRICS_TOKEN is a classic PAT with the `public_repo` scope. It is
@@ -51,3 +56,16 @@ jobs:
           # would make those safe to re-enable, and would include private
           # contributions in the counts.
           base: header, activity, community, metadata
+          config_theme: light
+
+      - name: Generate metrics (dark)
+        uses: lowlighter/metrics@v3.34
+        with:
+          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
+          user: parsajiravand
+          filename: assets/metrics-dark.svg
+          template: classic
+          config_timezone: UTC
+          config_display: large
+          base: header, activity, community, metadata
+          config_theme: dark
