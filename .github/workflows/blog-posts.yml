@@ -8,6 +8,13 @@ on:
   schedule:
     # 09:30 UTC — after the daily publish window.
     - cron: "30 9 * * *"
+  push:
+    # So the list fills in on the first push instead of sitting empty until the
+    # next scheduled run. Commits made with GITHUB_TOKEN do not trigger
+    # workflows, so this cannot loop on the action's own README commit.
+    branches: [master]
+    paths:
+      - .github/workflows/blog-posts.yml
   workflow_dispatch:
 
 permissions:
