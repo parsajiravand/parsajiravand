@@ -11,7 +11,12 @@ on:
     # Every day at 04:00 UTC.
     - cron: "0 4 * * *"
   push:
+    # Only when the job itself changes. Without a path filter this regenerates
+    # and commits the SVG on every push, adding a bot commit to the history
+    # each time the README is edited.
     branches: [master]
+    paths:
+      - .github/workflows/metrics.yml
   workflow_dispatch:
 
 permissions:

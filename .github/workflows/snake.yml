@@ -9,7 +9,10 @@ on:
     # Every 12 hours, so the animation tracks recent commits.
     - cron: "0 */12 * * *"
   push:
+    # Only when the job itself changes; the schedule keeps the animation fresh.
     branches: [master]
+    paths:
+      - .github/workflows/snake.yml
   workflow_dispatch:
 
 permissions:
