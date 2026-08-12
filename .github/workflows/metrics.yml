@@ -31,19 +31,18 @@ jobs:
           user: parsajiravand
           filename: assets/metrics.svg
           template: classic
-          base: header, activity, community, repositories, metadata
           config_timezone: UTC
           config_display: large
 
-          # Language breakdown — the replacement for the dead top-langs card.
-          plugin_languages: yes
-          plugin_languages_details: percentage
-          plugin_languages_limit: 8
-          plugin_languages_sections: most-used
-          plugin_languages_threshold: 1%
-
-          # Commit-time-of-day habits, a nicer signal than a raw commit count.
-          plugin_habits: yes
-          plugin_habits_from: 200
-          plugin_habits_days: 14
-          plugin_habits_charts: yes
+          # Deliberately limited to what a repo-scoped GITHUB_TOKEN can actually
+          # see. `repositories` is excluded because the token only has visibility
+          # into this one repo, so it rendered "1 Repository / 0 Releases /
+          # 14 kB used" for an account with 40 public repos. The languages and
+          # habits plugins fail the same way ("0 Languages", "Unexpected error"),
+          # so languages are rendered by scripts/render-language-card.mjs from
+          # the public API instead.
+          #
+          # Adding a METRICS_TOKEN secret (classic PAT, `public_repo` scope)
+          # would make those safe to re-enable, and would include private
+          # contributions in the counts.
+          base: header, activity, community, metadata

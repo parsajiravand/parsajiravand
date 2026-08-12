@@ -92,8 +92,14 @@ these numbers stay current on their own.
 
 <div align="center">
 
-<!-- Generated in-repo by .github/workflows/metrics.yml — no third-party uptime to depend on. -->
-<img src="./assets/metrics.svg" alt="GitHub metrics: activity, languages, and repository stats" width="100%" />
+<!-- Both cards are generated inside this repo by GitHub Actions — no third-party uptime to depend on. -->
+<img src="./assets/metrics.svg" alt="GitHub activity and community stats" width="100%" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/languages-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/languages.svg" />
+  <img src="./assets/languages.svg" alt="Most used languages by bytes of code across public repositories" width="480" />
+</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=parsajiravand&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
