@@ -62,12 +62,12 @@ these numbers stay current on their own.
 
 ## Latest from dev.to
 
-<!-- BLOG-POST-LIST:START -->- [You copy and reverse the array to find the last match. `findLast&lpar;&rpar;` searches from the end directly.](https://dev.to/parsajiravand/you-copy-and-reverse-the-array-to-find-the-last-match-findlast-searches-from-the-end-directly-ckk) &nbsp;<sub>Aug 14, 2026</sub>
+<!-- BLOG-POST-LIST:START -->- [Five tabs open, one refresh token — the race nobody noticed](https://dev.to/parsajiravand/five-tabs-open-one-refresh-token-the-race-nobody-noticed-1dn8) &nbsp;<sub>Aug 15, 2026</sub>
+- [You copy and reverse the array to find the last match. `findLast&lpar;&rpar;` searches from the end directly.](https://dev.to/parsajiravand/you-copy-and-reverse-the-array-to-find-the-last-match-findlast-searches-from-the-end-directly-ckk) &nbsp;<sub>Aug 14, 2026</sub>
 - [Your `fetch&lpar;&rpar;` in `beforeunload` is being silently dropped. Use `navigator.sendBeacon&lpar;&rpar;`.](https://dev.to/parsajiravand/your-fetch-in-beforeunload-is-being-silently-dropped-use-navigatorsendbeacon-4i2j) &nbsp;<sub>Aug 13, 2026</sub>
 - [Search your codebase for storage event listeners paired with a localStorage.setItem that immediately gets removed. That pattern is cross-tab messaging through a storage side-channel — exactly what BroadcastChannel exists to replace](https://dev.to/parsajiravand/search-your-codebase-for-storage-event-listeners-paired-with-a-localstoragesetitem-that-2fhl) &nbsp;<sub>Aug 13, 2026</sub>
 - [You&#39;re blocking touchmove events to contain scroll. `overscroll-behavior` does it natively.](https://dev.to/parsajiravand/youre-blocking-touchmove-events-to-contain-scroll-overscroll-behavior-does-it-natively-223o) &nbsp;<sub>Aug 12, 2026</sub>
 - [You&#39;re polling setInterval to detect DOM changes. `MutationObserver` fires when they happen.](https://dev.to/parsajiravand/youre-polling-setinterval-to-detect-dom-changes-mutationobserver-fires-when-they-happen-5do) &nbsp;<sub>Aug 11, 2026</sub>
-- [You&#39;re importing pako to gzip data. `CompressionStream` does it natively.](https://dev.to/parsajiravand/youre-importing-pako-to-gzip-data-compressionstream-does-it-natively-4d7b) &nbsp;<sub>Aug 10, 2026</sub>
 <!-- BLOG-POST-LIST:END -->
 
 📖 [Read everything on dev.to →](https://dev.to/parsajiravand)
