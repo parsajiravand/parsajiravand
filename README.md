@@ -62,12 +62,12 @@ these numbers stay current on their own.
 
 ## Latest from dev.to
 
-<!-- BLOG-POST-LIST:START -->- [I Ripped Out a Carousel Library. CSS Replaced It.](https://dev.to/parsajiravand/i-ripped-out-a-carousel-library-css-replaced-it-4j62) &nbsp;<sub>Aug 18, 2026</sub>
+<!-- BLOG-POST-LIST:START -->- [Stop Writing Media Queries for Font Size](https://dev.to/parsajiravand/stop-writing-media-queries-for-font-size-8hn) &nbsp;<sub>Aug 19, 2026</sub>
+- [I Ripped Out a Carousel Library. CSS Replaced It.](https://dev.to/parsajiravand/i-ripped-out-a-carousel-library-css-replaced-it-4j62) &nbsp;<sub>Aug 18, 2026</sub>
 - [Stop Writing Math.cos&lpar;&rpar; in a Resize Listener](https://dev.to/parsajiravand/stop-writing-mathcos-in-a-resize-listener-2ne2) &nbsp;<sub>Aug 17, 2026</sub>
 - [I Can Finally Delete My max-height: 9999px Animation Hack](https://dev.to/parsajiravand/i-can-finally-delete-my-max-height-9999px-animation-hack-1p8o) &nbsp;<sub>Aug 16, 2026</sub>
 - [Five tabs open, one refresh token — the race nobody noticed](https://dev.to/parsajiravand/five-tabs-open-one-refresh-token-the-race-nobody-noticed-1dn8) &nbsp;<sub>Aug 15, 2026</sub>
 - [You copy and reverse the array to find the last match. `findLast&lpar;&rpar;` searches from the end directly.](https://dev.to/parsajiravand/you-copy-and-reverse-the-array-to-find-the-last-match-findlast-searches-from-the-end-directly-ckk) &nbsp;<sub>Aug 14, 2026</sub>
-- [Your `fetch&lpar;&rpar;` in `beforeunload` is being silently dropped. Use `navigator.sendBeacon&lpar;&rpar;`.](https://dev.to/parsajiravand/your-fetch-in-beforeunload-is-being-silently-dropped-use-navigatorsendbeacon-4i2j) &nbsp;<sub>Aug 13, 2026</sub>
 <!-- BLOG-POST-LIST:END -->
 
 📖 [Read everything on dev.to →](https://dev.to/parsajiravand)
