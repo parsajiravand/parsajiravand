@@ -62,12 +62,12 @@ these numbers stay current on their own.
 
 ## Latest from dev.to
 
-<!-- BLOG-POST-LIST:START -->- [Stop Writing Regex to Match URLs — The Browser Already Can](https://dev.to/parsajiravand/stop-writing-regex-to-match-urls-the-browser-already-can-1e3e) &nbsp;<sub>Aug 20, 2026</sub>
+<!-- BLOG-POST-LIST:START -->- [The Modal Was Open. So Was Everything Behind It.](https://dev.to/parsajiravand/the-modal-was-open-so-was-everything-behind-it-266n) &nbsp;<sub>Aug 21, 2026</sub>
+- [Stop Writing Regex to Match URLs — The Browser Already Can](https://dev.to/parsajiravand/stop-writing-regex-to-match-urls-the-browser-already-can-1e3e) &nbsp;<sub>Aug 20, 2026</sub>
 - [Stop Writing Media Queries for Font Size](https://dev.to/parsajiravand/stop-writing-media-queries-for-font-size-8hn) &nbsp;<sub>Aug 19, 2026</sub>
 - [I Ripped Out a Carousel Library. CSS Replaced It.](https://dev.to/parsajiravand/i-ripped-out-a-carousel-library-css-replaced-it-4j62) &nbsp;<sub>Aug 18, 2026</sub>
 - [Stop Writing Math.cos&lpar;&rpar; in a Resize Listener](https://dev.to/parsajiravand/stop-writing-mathcos-in-a-resize-listener-2ne2) &nbsp;<sub>Aug 17, 2026</sub>
 - [I Can Finally Delete My max-height: 9999px Animation Hack](https://dev.to/parsajiravand/i-can-finally-delete-my-max-height-9999px-animation-hack-1p8o) &nbsp;<sub>Aug 16, 2026</sub>
-- [Five tabs open, one refresh token — the race nobody noticed](https://dev.to/parsajiravand/five-tabs-open-one-refresh-token-the-race-nobody-noticed-1dn8) &nbsp;<sub>Aug 15, 2026</sub>
 <!-- BLOG-POST-LIST:END -->
 
 📖 [Read everything on dev.to →](https://dev.to/parsajiravand)
