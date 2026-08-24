@@ -62,12 +62,12 @@ these numbers stay current on their own.
 
 ## Latest from dev.to
 
-<!-- BLOG-POST-LIST:START -->- [One version bump, 40 files to edit. Import maps fix that.](https://dev.to/parsajiravand/one-version-bump-40-files-to-edit-import-maps-fix-that-188b) &nbsp;<sub>Aug 23, 2026</sub>
+<!-- BLOG-POST-LIST:START -->- [JavaScript Proxy and Reflect: The Complete Guide](https://dev.to/parsajiravand/javascript-proxy-and-reflect-the-complete-guide-4ehf) &nbsp;<sub>Aug 24, 2026</sub>
+- [The CSS Selector Built to Lose Every Fight](https://dev.to/parsajiravand/the-css-selector-built-to-lose-every-fight-4kb9) &nbsp;<sub>Aug 24, 2026</sub>
+- [One version bump, 40 files to edit. Import maps fix that.](https://dev.to/parsajiravand/one-version-bump-40-files-to-edit-import-maps-fix-that-188b) &nbsp;<sub>Aug 23, 2026</sub>
 - [Your fetch in beforeunload is silently killed. navigator.sendBeacon guarantees delivery.](https://dev.to/parsajiravand/your-fetch-in-beforeunload-is-silently-killed-navigatorsendbeacon-guarantees-delivery-17pn) &nbsp;<sub>Aug 22, 2026</sub>
 - [The Modal Was Open. So Was Everything Behind It.](https://dev.to/parsajiravand/the-modal-was-open-so-was-everything-behind-it-266n) &nbsp;<sub>Aug 21, 2026</sub>
 - [Stop Writing Regex to Match URLs — The Browser Already Can](https://dev.to/parsajiravand/stop-writing-regex-to-match-urls-the-browser-already-can-1e3e) &nbsp;<sub>Aug 20, 2026</sub>
-- [Stop Writing Media Queries for Font Size](https://dev.to/parsajiravand/stop-writing-media-queries-for-font-size-8hn) &nbsp;<sub>Aug 19, 2026</sub>
-- [I Ripped Out a Carousel Library. CSS Replaced It.](https://dev.to/parsajiravand/i-ripped-out-a-carousel-library-css-replaced-it-4j62) &nbsp;<sub>Aug 18, 2026</sub>
 <!-- BLOG-POST-LIST:END -->
 
 📖 [Read everything on dev.to →](https://dev.to/parsajiravand)
