@@ -62,12 +62,12 @@ these numbers stay current on their own.
 
 ## Latest from dev.to
 
-<!-- BLOG-POST-LIST:START -->- [JavaScript Proxy and Reflect: The Complete Guide](https://dev.to/parsajiravand/javascript-proxy-and-reflect-the-complete-guide-4ehf) &nbsp;<sub>Aug 24, 2026</sub>
+<!-- BLOG-POST-LIST:START -->- [Nobody tells you the question window is closing](https://dev.to/parsajiravand/nobody-tells-you-the-question-window-is-closing-4n40) &nbsp;<sub>Aug 25, 2026</sub>
+- [JavaScript Closures: The Complete Guide &lpar;with Cheat Sheet&rpar;](https://dev.to/parsajiravand/javascript-closures-the-complete-guide-with-cheat-sheet-2p7p) &nbsp;<sub>Aug 25, 2026</sub>
+- [CSS Animations Can&#39;t Pause. The Web Animations API Can.](https://dev.to/parsajiravand/css-animations-cant-pause-the-web-animations-api-can-3ncg) &nbsp;<sub>Aug 25, 2026</sub>
+- [Vue Reactivity Explained: ref vs reactive &lpar;+ Cheat Sheet&rpar;](https://dev.to/parsajiravand/vue-reactivity-explained-ref-vs-reactive-cheat-sheet-4nij) &nbsp;<sub>Aug 24, 2026</sub>
+- [JavaScript Proxy and Reflect: The Complete Guide](https://dev.to/parsajiravand/javascript-proxy-and-reflect-the-complete-guide-4ehf) &nbsp;<sub>Aug 24, 2026</sub>
 - [The CSS Selector Built to Lose Every Fight](https://dev.to/parsajiravand/the-css-selector-built-to-lose-every-fight-4kb9) &nbsp;<sub>Aug 24, 2026</sub>
-- [One version bump, 40 files to edit. Import maps fix that.](https://dev.to/parsajiravand/one-version-bump-40-files-to-edit-import-maps-fix-that-188b) &nbsp;<sub>Aug 23, 2026</sub>
-- [Your fetch in beforeunload is silently killed. navigator.sendBeacon guarantees delivery.](https://dev.to/parsajiravand/your-fetch-in-beforeunload-is-silently-killed-navigatorsendbeacon-guarantees-delivery-17pn) &nbsp;<sub>Aug 22, 2026</sub>
-- [The Modal Was Open. So Was Everything Behind It.](https://dev.to/parsajiravand/the-modal-was-open-so-was-everything-behind-it-266n) &nbsp;<sub>Aug 21, 2026</sub>
-- [Stop Writing Regex to Match URLs — The Browser Already Can](https://dev.to/parsajiravand/stop-writing-regex-to-match-urls-the-browser-already-can-1e3e) &nbsp;<sub>Aug 20, 2026</sub>
 <!-- BLOG-POST-LIST:END -->
 
 📖 [Read everything on dev.to →](https://dev.to/parsajiravand)
