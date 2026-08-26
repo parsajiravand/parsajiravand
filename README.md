@@ -62,12 +62,12 @@ these numbers stay current on their own.
 
 ## Latest from dev.to
 
-<!-- BLOG-POST-LIST:START -->- [Nobody tells you the question window is closing](https://dev.to/parsajiravand/nobody-tells-you-the-question-window-is-closing-4n40) &nbsp;<sub>Aug 25, 2026</sub>
+<!-- BLOG-POST-LIST:START -->- [Delete Your Auto-Resize Textarea JS. CSS Does It Now.](https://dev.to/parsajiravand/delete-your-auto-resize-textarea-js-css-does-it-now-3o5c) &nbsp;<sub>Aug 26, 2026</sub>
+- [Soft skills are very important nowadays!](https://dev.to/parsajiravand/soft-skills-are-very-important-nowadays-481g) &nbsp;<sub>Aug 25, 2026</sub>
+- [Nobody tells you the question window is closing](https://dev.to/parsajiravand/nobody-tells-you-the-question-window-is-closing-4n40) &nbsp;<sub>Aug 25, 2026</sub>
 - [JavaScript Closures: The Complete Guide &lpar;with Cheat Sheet&rpar;](https://dev.to/parsajiravand/javascript-closures-the-complete-guide-with-cheat-sheet-2p7p) &nbsp;<sub>Aug 25, 2026</sub>
 - [CSS Animations Can&#39;t Pause. The Web Animations API Can.](https://dev.to/parsajiravand/css-animations-cant-pause-the-web-animations-api-can-3ncg) &nbsp;<sub>Aug 25, 2026</sub>
 - [Vue Reactivity Explained: ref vs reactive &lpar;+ Cheat Sheet&rpar;](https://dev.to/parsajiravand/vue-reactivity-explained-ref-vs-reactive-cheat-sheet-4nij) &nbsp;<sub>Aug 24, 2026</sub>
-- [JavaScript Proxy and Reflect: The Complete Guide](https://dev.to/parsajiravand/javascript-proxy-and-reflect-the-complete-guide-4ehf) &nbsp;<sub>Aug 24, 2026</sub>
-- [The CSS Selector Built to Lose Every Fight](https://dev.to/parsajiravand/the-css-selector-built-to-lose-every-fight-4kb9) &nbsp;<sub>Aug 24, 2026</sub>
 <!-- BLOG-POST-LIST:END -->
 
 📖 [Read everything on dev.to →](https://dev.to/parsajiravand)
