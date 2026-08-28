@@ -1,55 +1,67 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="200" viewBox="0 0 480 200" role="img" aria-label="Most used languages across 40 public repositories">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="222" viewBox="0 0 480 222" role="img" aria-label="Most used languages across 40 public repositories">
   <defs>
     <clipPath id="bar-clip"><rect x="24" y="62" width="432" height="10" rx="5" /></clipPath>
   </defs>
-  <rect x="0.5" y="0.5" width="479" height="199" rx="6" fill="#0d1117" stroke="#30363d" />
+  <rect x="0.5" y="0.5" width="479" height="221" rx="6" fill="#0d1117" stroke="#30363d" />
   <g font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif">
     <text x="24" y="32" fill="#e6edf3" font-size="15" font-weight="600">Most used languages</text>
     <text x="24" y="50" fill="#8b949e" font-size="11.5">by bytes of code across 40 public repositories</text>
     <rect x="24" y="62" width="432" height="10" rx="5" fill="#21262d" />
     <g clip-path="url(#bar-clip)">
-    <rect x="24.00" y="62" width="151.86" height="10" fill="#3178c6" />
-    <rect x="175.86" y="62" width="101.16" height="10" fill="#41b883" />
-    <rect x="277.02" y="62" width="87.17" height="10" fill="#f1e05a" />
-    <rect x="364.19" y="62" width="37.67" height="10" fill="#563d7c" />
-    <rect x="401.86" y="62" width="26.63" height="10" fill="#e34c26" />
-    <rect x="428.49" y="62" width="16.21" height="10" fill="#c6538c" />
-    <rect x="444.69" y="62" width="11.00" height="10" fill="#4F5D95" />
+    <rect x="24.00" y="62" width="156.68" height="10" fill="#3178c6" />
+    <rect x="180.68" y="62" width="81.04" height="10" fill="#41b883" />
+    <rect x="261.72" y="62" width="70.73" height="10" fill="#f1e05a" />
+    <rect x="332.45" y="62" width="44.97" height="10" fill="#fcb32c" />
+    <rect x="377.42" y="62" width="33.19" height="10" fill="#563d7c" />
+    <rect x="410.62" y="62" width="21.34" height="10" fill="#e34c26" />
+    <rect x="431.96" y="62" width="12.98" height="10" fill="#c6538c" />
+    <rect x="444.94" y="62" width="8.81" height="10" fill="#4F5D95" />
+    <rect x="453.75" y="62" width="2.25" height="10" fill="#6e7681" />
     </g>
     <g transform="translate(24.00, 98)">
       <circle cx="5" cy="5" r="5" fill="#3178c6" />
       <text x="18" y="9" fill="#e6edf3" font-size="12" font-weight="600">TypeScript</text>
-      <text x="182.00" y="9" fill="#8b949e" font-size="12" text-anchor="end">35.2%</text>
+      <text x="182.00" y="9" fill="#8b949e" font-size="12" text-anchor="end">36.3%</text>
     </g>
     <g transform="translate(240.00, 98)">
       <circle cx="5" cy="5" r="5" fill="#41b883" />
       <text x="18" y="9" fill="#e6edf3" font-size="12" font-weight="600">Vue</text>
-      <text x="182.00" y="9" fill="#8b949e" font-size="12" text-anchor="end">23.4%</text>
+      <text x="182.00" y="9" fill="#8b949e" font-size="12" text-anchor="end">18.8%</text>
     </g>
     <g transform="translate(24.00, 120)">
       <circle cx="5" cy="5" r="5" fill="#f1e05a" />
       <text x="18" y="9" fill="#e6edf3" font-size="12" font-weight="600">JavaScript</text>
-      <text x="182.00" y="9" fill="#8b949e" font-size="12" text-anchor="end">20.2%</text>
+      <text x="182.00" y="9" fill="#8b949e" font-size="12" text-anchor="end">16.4%</text>
     </g>
     <g transform="translate(240.00, 120)">
-      <circle cx="5" cy="5" r="5" fill="#563d7c" />
-      <text x="18" y="9" fill="#e6edf3" font-size="12" font-weight="600">CSS</text>
-      <text x="182.00" y="9" fill="#8b949e" font-size="12" text-anchor="end">8.7%</text>
+      <circle cx="5" cy="5" r="5" fill="#fcb32c" />
+      <text x="18" y="9" fill="#e6edf3" font-size="12" font-weight="600">MDX</text>
+      <text x="182.00" y="9" fill="#8b949e" font-size="12" text-anchor="end">10.4%</text>
     </g>
     <g transform="translate(24.00, 142)">
-      <circle cx="5" cy="5" r="5" fill="#e34c26" />
-      <text x="18" y="9" fill="#e6edf3" font-size="12" font-weight="600">HTML</text>
-      <text x="182.00" y="9" fill="#8b949e" font-size="12" text-anchor="end">6.2%</text>
+      <circle cx="5" cy="5" r="5" fill="#563d7c" />
+      <text x="18" y="9" fill="#e6edf3" font-size="12" font-weight="600">CSS</text>
+      <text x="182.00" y="9" fill="#8b949e" font-size="12" text-anchor="end">7.7%</text>
     </g>
     <g transform="translate(240.00, 142)">
-      <circle cx="5" cy="5" r="5" fill="#c6538c" />
-      <text x="18" y="9" fill="#e6edf3" font-size="12" font-weight="600">SCSS</text>
-      <text x="182.00" y="9" fill="#8b949e" font-size="12" text-anchor="end">3.8%</text>
+      <circle cx="5" cy="5" r="5" fill="#e34c26" />
+      <text x="18" y="9" fill="#e6edf3" font-size="12" font-weight="600">HTML</text>
+      <text x="182.00" y="9" fill="#8b949e" font-size="12" text-anchor="end">4.9%</text>
     </g>
     <g transform="translate(24.00, 164)">
+      <circle cx="5" cy="5" r="5" fill="#c6538c" />
+      <text x="18" y="9" fill="#e6edf3" font-size="12" font-weight="600">SCSS</text>
+      <text x="182.00" y="9" fill="#8b949e" font-size="12" text-anchor="end">3.0%</text>
+    </g>
+    <g transform="translate(240.00, 164)">
       <circle cx="5" cy="5" r="5" fill="#4F5D95" />
       <text x="18" y="9" fill="#e6edf3" font-size="12" font-weight="600">PHP</text>
-      <text x="182.00" y="9" fill="#8b949e" font-size="12" text-anchor="end">2.5%</text>
+      <text x="182.00" y="9" fill="#8b949e" font-size="12" text-anchor="end">2.0%</text>
+    </g>
+    <g transform="translate(24.00, 186)">
+      <circle cx="5" cy="5" r="5" fill="#6e7681" />
+      <text x="18" y="9" fill="#e6edf3" font-size="12" font-weight="600">Other</text>
+      <text x="182.00" y="9" fill="#8b949e" font-size="12" text-anchor="end">0.5%</text>
     </g>
   </g>
 </svg>
