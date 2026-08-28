@@ -62,12 +62,12 @@ these numbers stay current on their own.
 
 ## Latest from dev.to
 
-<!-- BLOG-POST-LIST:START -->- [You&#39;re truncating bios with `.slice&lpar;&rpar;`. `Intl.Segmenter` knows where the emoji actually end.](https://dev.to/parsajiravand/youre-truncating-bios-with-slice-intlsegmenter-knows-where-the-emoji-actually-end-36eo) &nbsp;<sub>Aug 27, 2026</sub>
+<!-- BLOG-POST-LIST:START -->- [NestJS Request Lifecycle Explained &lpar;with Cheat Sheet&rpar;](https://dev.to/parsajiravand/nestjs-request-lifecycle-explained-with-cheat-sheet-227l) &nbsp;<sub>Aug 28, 2026</sub>
+- [Your Grid Has Invisible Columns: auto-fill vs auto-fit](https://dev.to/parsajiravand/your-grid-has-invisible-columns-auto-fill-vs-auto-fit-3hh1) &nbsp;<sub>Aug 28, 2026</sub>
+- [You&#39;re truncating bios with `.slice&lpar;&rpar;`. `Intl.Segmenter` knows where the emoji actually end.](https://dev.to/parsajiravand/youre-truncating-bios-with-slice-intlsegmenter-knows-where-the-emoji-actually-end-36eo) &nbsp;<sub>Aug 27, 2026</sub>
 - [Delete Your Auto-Resize Textarea JS. CSS Does It Now.](https://dev.to/parsajiravand/delete-your-auto-resize-textarea-js-css-does-it-now-3o5c) &nbsp;<sub>Aug 26, 2026</sub>
 - [Soft skills are very important nowadays!](https://dev.to/parsajiravand/soft-skills-are-very-important-nowadays-481g) &nbsp;<sub>Aug 25, 2026</sub>
 - [Nobody tells you the question window is closing](https://dev.to/parsajiravand/nobody-tells-you-the-question-window-is-closing-4n40) &nbsp;<sub>Aug 25, 2026</sub>
-- [JavaScript Closures: The Complete Guide &lpar;with Cheat Sheet&rpar;](https://dev.to/parsajiravand/javascript-closures-the-complete-guide-with-cheat-sheet-2p7p) &nbsp;<sub>Aug 25, 2026</sub>
-- [CSS Animations Can&#39;t Pause. The Web Animations API Can.](https://dev.to/parsajiravand/css-animations-cant-pause-the-web-animations-api-can-3ncg) &nbsp;<sub>Aug 25, 2026</sub>
 <!-- BLOG-POST-LIST:END -->
 
 📖 [Read everything on dev.to →](https://dev.to/parsajiravand)
