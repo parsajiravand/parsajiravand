@@ -62,12 +62,12 @@ these numbers stay current on their own.
 
 ## Latest from dev.to
 
-<!-- BLOG-POST-LIST:START -->- [NestJS Request Lifecycle Explained &lpar;with Cheat Sheet&rpar;](https://dev.to/parsajiravand/nestjs-request-lifecycle-explained-with-cheat-sheet-227l) &nbsp;<sub>Aug 28, 2026</sub>
+<!-- BLOG-POST-LIST:START -->- [React Re-render vs Remount: What Actually Triggers Each](https://dev.to/parsajiravand/react-re-render-vs-remount-what-actually-triggers-each-5fok) &nbsp;<sub>Aug 29, 2026</sub>
+- [The outline: none Debate Has Been Over Since 2020](https://dev.to/parsajiravand/the-outline-none-debate-has-been-over-since-2020-jli) &nbsp;<sub>Aug 29, 2026</sub>
+- [NestJS Request Lifecycle Explained &lpar;with Cheat Sheet&rpar;](https://dev.to/parsajiravand/nestjs-request-lifecycle-explained-with-cheat-sheet-227l) &nbsp;<sub>Aug 28, 2026</sub>
 - [Your Grid Has Invisible Columns: auto-fill vs auto-fit](https://dev.to/parsajiravand/your-grid-has-invisible-columns-auto-fill-vs-auto-fit-3hh1) &nbsp;<sub>Aug 28, 2026</sub>
 - [You&#39;re truncating bios with `.slice&lpar;&rpar;`. `Intl.Segmenter` knows where the emoji actually end.](https://dev.to/parsajiravand/youre-truncating-bios-with-slice-intlsegmenter-knows-where-the-emoji-actually-end-36eo) &nbsp;<sub>Aug 27, 2026</sub>
 - [Delete Your Auto-Resize Textarea JS. CSS Does It Now.](https://dev.to/parsajiravand/delete-your-auto-resize-textarea-js-css-does-it-now-3o5c) &nbsp;<sub>Aug 26, 2026</sub>
-- [Soft skills are very important nowadays!](https://dev.to/parsajiravand/soft-skills-are-very-important-nowadays-481g) &nbsp;<sub>Aug 25, 2026</sub>
-- [Nobody tells you the question window is closing](https://dev.to/parsajiravand/nobody-tells-you-the-question-window-is-closing-4n40) &nbsp;<sub>Aug 25, 2026</sub>
 <!-- BLOG-POST-LIST:END -->
 
 📖 [Read everything on dev.to →](https://dev.to/parsajiravand)
