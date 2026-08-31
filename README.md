@@ -62,12 +62,12 @@ these numbers stay current on their own.
 
 ## Latest from dev.to
 
-<!-- BLOG-POST-LIST:START -->- [Nuxt useState vs ref&lpar;&rpar;: Why Server State Leaks Across Users](https://dev.to/parsajiravand/nuxt-usestate-vs-ref-why-server-state-leaks-across-users-47n1) &nbsp;<sub>Aug 30, 2026</sub>
+<!-- BLOG-POST-LIST:START -->- [Debounce and Throttle in JavaScript: The Complete Guide](https://dev.to/parsajiravand/debounce-and-throttle-in-javascript-the-complete-guide-2o61) &nbsp;<sub>Aug 31, 2026</sub>
+- [You Don&#39;t Need a WebSocket for That Live Feed](https://dev.to/parsajiravand/you-dont-need-a-websocket-for-that-live-feed-7oa) &nbsp;<sub>Aug 31, 2026</sub>
+- [Nuxt useState vs ref&lpar;&rpar;: Why Server State Leaks Across Users](https://dev.to/parsajiravand/nuxt-usestate-vs-ref-why-server-state-leaks-across-users-47n1) &nbsp;<sub>Aug 30, 2026</sub>
 - [Delete Your padding-bottom Aspect-Ratio Hack](https://dev.to/parsajiravand/delete-your-padding-bottom-aspect-ratio-hack-1f01) &nbsp;<sub>Aug 30, 2026</sub>
 - [React Re-render vs Remount: What Actually Triggers Each](https://dev.to/parsajiravand/react-re-render-vs-remount-what-actually-triggers-each-5fok) &nbsp;<sub>Aug 29, 2026</sub>
 - [The outline: none Debate Has Been Over Since 2020](https://dev.to/parsajiravand/the-outline-none-debate-has-been-over-since-2020-jli) &nbsp;<sub>Aug 29, 2026</sub>
-- [NestJS Request Lifecycle Explained &lpar;with Cheat Sheet&rpar;](https://dev.to/parsajiravand/nestjs-request-lifecycle-explained-with-cheat-sheet-227l) &nbsp;<sub>Aug 28, 2026</sub>
-- [Your Grid Has Invisible Columns: auto-fill vs auto-fit](https://dev.to/parsajiravand/your-grid-has-invisible-columns-auto-fill-vs-auto-fit-3hh1) &nbsp;<sub>Aug 28, 2026</sub>
 <!-- BLOG-POST-LIST:END -->
 
 📖 [Read everything on dev.to →](https://dev.to/parsajiravand)
