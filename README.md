@@ -62,12 +62,12 @@ these numbers stay current on their own.
 
 ## Latest from dev.to
 
-<!-- BLOG-POST-LIST:START -->- [Next.js Cache Components Explained &lpar;with Cheat Sheet&rpar;](https://dev.to/parsajiravand/nextjs-cache-components-explained-with-cheat-sheet-55ob) &nbsp;<sub>Sep 1, 2026</sub>
+<!-- BLOG-POST-LIST:START -->- [You&#39;re not quiet in meetings, you&#39;re editing](https://dev.to/parsajiravand/youre-not-quiet-in-meetings-youre-editing-231m) &nbsp;<sub>Sep 2, 2026</sub>
+- [Shadow DOM Needed JavaScript to Exist. Now It Doesn&#39;t.](https://dev.to/parsajiravand/shadow-dom-needed-javascript-to-exist-now-it-doesnt-2lla) &nbsp;<sub>Sep 2, 2026</sub>
+- [Next.js Cache Components Explained &lpar;with Cheat Sheet&rpar;](https://dev.to/parsajiravand/nextjs-cache-components-explained-with-cheat-sheet-55ob) &nbsp;<sub>Sep 1, 2026</sub>
 - [Your Router Doesn&#39;t Intercept Navigation. It Reacts To It.](https://dev.to/parsajiravand/your-router-doesnt-intercept-navigation-it-reacts-to-it-c5l) &nbsp;<sub>Sep 1, 2026</sub>
 - [Debounce and Throttle in JavaScript: The Complete Guide](https://dev.to/parsajiravand/debounce-and-throttle-in-javascript-the-complete-guide-2o61) &nbsp;<sub>Aug 31, 2026</sub>
 - [You Don&#39;t Need a WebSocket for That Live Feed](https://dev.to/parsajiravand/you-dont-need-a-websocket-for-that-live-feed-7oa) &nbsp;<sub>Aug 31, 2026</sub>
-- [Nuxt useState vs ref&lpar;&rpar;: Why Server State Leaks Across Users](https://dev.to/parsajiravand/nuxt-usestate-vs-ref-why-server-state-leaks-across-users-47n1) &nbsp;<sub>Aug 30, 2026</sub>
-- [Delete Your padding-bottom Aspect-Ratio Hack](https://dev.to/parsajiravand/delete-your-padding-bottom-aspect-ratio-hack-1f01) &nbsp;<sub>Aug 30, 2026</sub>
 <!-- BLOG-POST-LIST:END -->
 
 📖 [Read everything on dev.to →](https://dev.to/parsajiravand)
