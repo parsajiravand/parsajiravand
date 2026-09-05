@@ -62,12 +62,12 @@ these numbers stay current on their own.
 
 ## Latest from dev.to
 
-<!-- BLOG-POST-LIST:START -->- [NestJS Dependency Injection Explained &lpar;with Cheat Sheet&rpar;](https://dev.to/parsajiravand/nestjs-dependency-injection-explained-with-cheat-sheet-4bem) &nbsp;<sub>Sep 4, 2026</sub>
+<!-- BLOG-POST-LIST:START -->- [React Compiler 1.0: What useMemo You Can Delete](https://dev.to/parsajiravand/react-compiler-10-what-usememo-you-can-delete-hgm) &nbsp;<sub>Sep 5, 2026</sub>
+- [Your Timer Doesn&#39;t Know You Tabbed Away](https://dev.to/parsajiravand/your-timer-doesnt-know-you-tabbed-away-3cjp) &nbsp;<sub>Sep 5, 2026</sub>
+- [NestJS Dependency Injection Explained &lpar;with Cheat Sheet&rpar;](https://dev.to/parsajiravand/nestjs-dependency-injection-explained-with-cheat-sheet-4bem) &nbsp;<sub>Sep 4, 2026</sub>
 - [Stop Regex-Parsing document.cookie. Use CookieStore](https://dev.to/parsajiravand/stop-regex-parsing-documentcookie-use-cookiestore-5c41) &nbsp;<sub>Sep 4, 2026</sub>
 - [The await That Silently Breaks navigator.clipboard.writeText&lpar;&rpar;](https://dev.to/parsajiravand/the-await-that-silently-breaks-navigatorclipboardwritetext-10oe) &nbsp;<sub>Sep 3, 2026</sub>
 - [You&#39;re not quiet in meetings, you&#39;re editing](https://dev.to/parsajiravand/youre-not-quiet-in-meetings-youre-editing-231m) &nbsp;<sub>Sep 2, 2026</sub>
-- [Shadow DOM Needed JavaScript to Exist. Now It Doesn&#39;t.](https://dev.to/parsajiravand/shadow-dom-needed-javascript-to-exist-now-it-doesnt-2lla) &nbsp;<sub>Sep 2, 2026</sub>
-- [Next.js Cache Components Explained &lpar;with Cheat Sheet&rpar;](https://dev.to/parsajiravand/nextjs-cache-components-explained-with-cheat-sheet-55ob) &nbsp;<sub>Sep 1, 2026</sub>
 <!-- BLOG-POST-LIST:END -->
 
 📖 [Read everything on dev.to →](https://dev.to/parsajiravand)
