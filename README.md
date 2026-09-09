@@ -62,12 +62,12 @@ these numbers stay current on their own.
 
 ## Latest from dev.to
 
-<!-- BLOG-POST-LIST:START -->- [Next.js Server Actions: Mutations &amp; Security &lpar;Cheat Sheet&rpar;](https://dev.to/parsajiravand/nextjs-server-actions-mutations-security-cheat-sheet-b63) &nbsp;<sub>Sep 8, 2026</sub>
+<!-- BLOG-POST-LIST:START -->- [Those Share Buttons Are Guessing What&#39;s On My Phone](https://dev.to/parsajiravand/those-share-buttons-are-guessing-whats-on-my-phone-3dk1) &nbsp;<sub>Sep 9, 2026</sub>
+- [Next.js Server Actions: Mutations &amp; Security &lpar;Cheat Sheet&rpar;](https://dev.to/parsajiravand/nextjs-server-actions-mutations-security-cheat-sheet-b63) &nbsp;<sub>Sep 8, 2026</sub>
 - [Your Required Field Turns Red Before You Type Anything](https://dev.to/parsajiravand/your-required-field-turns-red-before-you-type-anything-1ad2) &nbsp;<sub>Sep 8, 2026</sub>
 - [Web Workers in JavaScript: The Complete Guide](https://dev.to/parsajiravand/web-workers-in-javascript-the-complete-guide-5f17) &nbsp;<sub>Sep 7, 2026</sub>
 - [One CSS Property Replaces Your Checkbox Hack](https://dev.to/parsajiravand/one-css-property-replaces-your-checkbox-hack-4jhk) &nbsp;<sub>Sep 7, 2026</sub>
 - [Your Recipe App Is Hiding a Silent Video](https://dev.to/parsajiravand/your-recipe-app-is-hiding-a-silent-video-21ma) &nbsp;<sub>Sep 6, 2026</sub>
-- [React Compiler 1.0: What useMemo You Can Delete](https://dev.to/parsajiravand/react-compiler-10-what-usememo-you-can-delete-hgm) &nbsp;<sub>Sep 5, 2026</sub>
 <!-- BLOG-POST-LIST:END -->
 
 📖 [Read everything on dev.to →](https://dev.to/parsajiravand)
