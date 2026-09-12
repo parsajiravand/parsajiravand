@@ -62,12 +62,12 @@ these numbers stay current on their own.
 
 ## Latest from dev.to
 
-<!-- BLOG-POST-LIST:START -->- [My .catch&lpar;&rpar; Never Ran. The Bug Was Two Lines Above It](https://dev.to/parsajiravand/my-catch-never-ran-the-bug-was-two-lines-above-it-3nil) &nbsp;<sub>Sep 11, 2026</sub>
+<!-- BLOG-POST-LIST:START -->- [addDays&lpar;&rpar; Mutated a Date Three Components Away From Where I Called It](https://dev.to/parsajiravand/adddays-mutated-a-date-three-components-away-from-where-i-called-it-3400) &nbsp;<sub>Sep 12, 2026</sub>
+- [React Form Actions: useActionState &amp; useFormStatus Guide](https://dev.to/parsajiravand/react-form-actions-useactionstate-useformstatus-guide-39jf) &nbsp;<sub>Sep 12, 2026</sub>
+- [My .catch&lpar;&rpar; Never Ran. The Bug Was Two Lines Above It](https://dev.to/parsajiravand/my-catch-never-ran-the-bug-was-two-lines-above-it-3nil) &nbsp;<sub>Sep 11, 2026</sub>
 - [NestJS Module Encapsulation Explained &lpar;with Cheat Sheet&rpar;](https://dev.to/parsajiravand/nestjs-module-encapsulation-explained-with-cheat-sheet-10mo) &nbsp;<sub>Sep 11, 2026</sub>
 - [I Shipped &#39;Passwordless Login.&#39; It Still Asked for a Username.](https://dev.to/parsajiravand/i-shipped-passwordless-login-it-still-asked-for-a-username-1nd7) &nbsp;<sub>Sep 10, 2026</sub>
 - [Those Share Buttons Are Guessing What&#39;s On My Phone](https://dev.to/parsajiravand/those-share-buttons-are-guessing-whats-on-my-phone-3dk1) &nbsp;<sub>Sep 9, 2026</sub>
-- [Next.js Server Actions: Mutations &amp; Security &lpar;Cheat Sheet&rpar;](https://dev.to/parsajiravand/nextjs-server-actions-mutations-security-cheat-sheet-b63) &nbsp;<sub>Sep 8, 2026</sub>
-- [Your Required Field Turns Red Before You Type Anything](https://dev.to/parsajiravand/your-required-field-turns-red-before-you-type-anything-1ad2) &nbsp;<sub>Sep 8, 2026</sub>
 <!-- BLOG-POST-LIST:END -->
 
 📖 [Read everything on dev.to →](https://dev.to/parsajiravand)
