@@ -62,12 +62,12 @@ these numbers stay current on their own.
 
 ## Latest from dev.to
 
-<!-- BLOG-POST-LIST:START -->- [useAsyncData Keys in Nuxt: Caching, Dedupe &amp; the Sharing Bug](https://dev.to/parsajiravand/useasyncdata-keys-in-nuxt-caching-dedupe-the-sharing-bug-el1) &nbsp;<sub>Sep 13, 2026</sub>
+<!-- BLOG-POST-LIST:START -->- [Vue nextTick Explained: How DOM Updates Are Batched](https://dev.to/parsajiravand/vue-nexttick-explained-how-dom-updates-are-batched-3gnp) &nbsp;<sub>Sep 14, 2026</sub>
+- [The &#39;Read Aloud&#39; Button That Only Works on the Second Click](https://dev.to/parsajiravand/the-read-aloud-button-that-only-works-on-the-second-click-3406) &nbsp;<sub>Sep 14, 2026</sub>
+- [useAsyncData Keys in Nuxt: Caching, Dedupe &amp; the Sharing Bug](https://dev.to/parsajiravand/useasyncdata-keys-in-nuxt-caching-dedupe-the-sharing-bug-el1) &nbsp;<sub>Sep 13, 2026</sub>
 - [The Search Highlight That Deletes Your Selection](https://dev.to/parsajiravand/the-search-highlight-that-deletes-your-selection-3acb) &nbsp;<sub>Sep 13, 2026</sub>
 - [addDays&lpar;&rpar; Mutated a Date Three Components Away From Where I Called It](https://dev.to/parsajiravand/adddays-mutated-a-date-three-components-away-from-where-i-called-it-3400) &nbsp;<sub>Sep 12, 2026</sub>
 - [React Form Actions: useActionState &amp; useFormStatus Guide](https://dev.to/parsajiravand/react-form-actions-useactionstate-useformstatus-guide-39jf) &nbsp;<sub>Sep 12, 2026</sub>
-- [My .catch&lpar;&rpar; Never Ran. The Bug Was Two Lines Above It](https://dev.to/parsajiravand/my-catch-never-ran-the-bug-was-two-lines-above-it-3nil) &nbsp;<sub>Sep 11, 2026</sub>
-- [NestJS Module Encapsulation Explained &lpar;with Cheat Sheet&rpar;](https://dev.to/parsajiravand/nestjs-module-encapsulation-explained-with-cheat-sheet-10mo) &nbsp;<sub>Sep 11, 2026</sub>
 <!-- BLOG-POST-LIST:END -->
 
 📖 [Read everything on dev.to →](https://dev.to/parsajiravand)
