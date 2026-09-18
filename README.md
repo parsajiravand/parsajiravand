@@ -62,12 +62,12 @@ these numbers stay current on their own.
 
 ## Latest from dev.to
 
-<!-- BLOG-POST-LIST:START -->- [Stop Debouncing Resize. The Browser Already Watches It.](https://dev.to/parsajiravand/stop-debouncing-resize-the-browser-already-watches-it-1eh6) &nbsp;<sub>Sep 17, 2026</sub>
+<!-- BLOG-POST-LIST:START -->- [NestJS Testing Module: Provider Overrides &lpar;with Cheat Sheet&rpar;](https://dev.to/parsajiravand/nestjs-testing-module-provider-overrides-with-cheat-sheet-1o79) &nbsp;<sub>Sep 18, 2026</sub>
+- [The CSS Property That Fixes Dark Mode&#39;s Ugly White Boxes](https://dev.to/parsajiravand/the-css-property-that-fixes-dark-modes-ugly-white-boxes-58hc) &nbsp;<sub>Sep 18, 2026</sub>
+- [Stop Debouncing Resize. The Browser Already Watches It.](https://dev.to/parsajiravand/stop-debouncing-resize-the-browser-already-watches-it-1eh6) &nbsp;<sub>Sep 17, 2026</sub>
 - [Your Fetch Already Streams. You&#39;re Buffering It Anyway.](https://dev.to/parsajiravand/your-fetch-already-streams-youre-buffering-it-anyway-33ib) &nbsp;<sub>Sep 16, 2026</sub>
 - [Next.js Parallel &amp; Intercepting Routes: Modals Done Right](https://dev.to/parsajiravand/nextjs-parallel-intercepting-routes-modals-done-right-41fj) &nbsp;<sub>Sep 15, 2026</sub>
 - [The Star Rating That Never Reaches Your Server](https://dev.to/parsajiravand/the-star-rating-that-never-reaches-your-server-jee) &nbsp;<sub>Sep 15, 2026</sub>
-- [Vue nextTick Explained: How DOM Updates Are Batched](https://dev.to/parsajiravand/vue-nexttick-explained-how-dom-updates-are-batched-3gnp) &nbsp;<sub>Sep 14, 2026</sub>
-- [The &#39;Read Aloud&#39; Button That Only Works on the Second Click](https://dev.to/parsajiravand/the-read-aloud-button-that-only-works-on-the-second-click-3406) &nbsp;<sub>Sep 14, 2026</sub>
 <!-- BLOG-POST-LIST:END -->
 
 📖 [Read everything on dev.to →](https://dev.to/parsajiravand)
