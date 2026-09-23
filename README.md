@@ -62,12 +62,12 @@ these numbers stay current on their own.
 
 ## Latest from dev.to
 
-<!-- BLOG-POST-LIST:START -->- [React Derived State: Why That useState Is Probably a Bug](https://dev.to/parsajiravand/react-derived-state-why-that-usestate-is-probably-a-bug-37h0) &nbsp;<sub>Sep 20, 2026</sub>
+<!-- BLOG-POST-LIST:START -->- [Vue Composables: The Shared State Trap &lpar;+ Cheat Sheet&rpar;](https://dev.to/parsajiravand/vue-composables-the-shared-state-trap-cheat-sheet-37ia) &nbsp;<sub>Sep 22, 2026</sub>
+- [The Dropdown You&#39;ve Been Faking for a Decade](https://dev.to/parsajiravand/the-dropdown-youve-been-faking-for-a-decade-5b10) &nbsp;<sub>Sep 22, 2026</sub>
+- [Next.js proxy.ts Explained &lpar;with Cheat Sheet&rpar;](https://dev.to/parsajiravand/nextjs-proxyts-explained-with-cheat-sheet-j4i) &nbsp;<sub>Sep 22, 2026</sub>
+- [Stop Writing JavaScript To Fix `100vh` On Mobile](https://dev.to/parsajiravand/stop-writing-javascript-to-fix-100vh-on-mobile-42bk) &nbsp;<sub>Sep 22, 2026</sub>
+- [React Derived State: Why That useState Is Probably a Bug](https://dev.to/parsajiravand/react-derived-state-why-that-usestate-is-probably-a-bug-37h0) &nbsp;<sub>Sep 20, 2026</sub>
 - [Your Browser Is Rejecting Every Drop On Purpose](https://dev.to/parsajiravand/your-browser-is-rejecting-every-drop-on-purpose-4jji) &nbsp;<sub>Sep 20, 2026</sub>
-- [Nuxt Hydration Mismatch: Why It Happens and How to Fix It](https://dev.to/parsajiravand/nuxt-hydration-mismatch-why-it-happens-and-how-to-fix-it-5b7i) &nbsp;<sub>Sep 20, 2026</sub>
-- [Chrome Already Has The Eyedropper You&#39;re Building](https://dev.to/parsajiravand/chrome-already-has-the-eyedropper-youre-building-2c10) &nbsp;<sub>Sep 20, 2026</sub>
-- [NestJS Testing Module: Provider Overrides &lpar;with Cheat Sheet&rpar;](https://dev.to/parsajiravand/nestjs-testing-module-provider-overrides-with-cheat-sheet-1o79) &nbsp;<sub>Sep 18, 2026</sub>
-- [The CSS Property That Fixes Dark Mode&#39;s Ugly White Boxes](https://dev.to/parsajiravand/the-css-property-that-fixes-dark-modes-ugly-white-boxes-58hc) &nbsp;<sub>Sep 18, 2026</sub>
 <!-- BLOG-POST-LIST:END -->
 
 📖 [Read everything on dev.to →](https://dev.to/parsajiravand)
