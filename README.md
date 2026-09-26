@@ -62,12 +62,12 @@ these numbers stay current on their own.
 
 ## Latest from dev.to
 
-<!-- BLOG-POST-LIST:START -->- [Vue Composables: The Shared State Trap &lpar;+ Cheat Sheet&rpar;](https://dev.to/parsajiravand/vue-composables-the-shared-state-trap-cheat-sheet-37ia) &nbsp;<sub>Sep 22, 2026</sub>
-- [The Dropdown You&#39;ve Been Faking for a Decade](https://dev.to/parsajiravand/the-dropdown-youve-been-faking-for-a-decade-5b10) &nbsp;<sub>Sep 22, 2026</sub>
-- [Next.js proxy.ts Explained &lpar;with Cheat Sheet&rpar;](https://dev.to/parsajiravand/nextjs-proxyts-explained-with-cheat-sheet-j4i) &nbsp;<sub>Sep 22, 2026</sub>
-- [Stop Writing JavaScript To Fix `100vh` On Mobile](https://dev.to/parsajiravand/stop-writing-javascript-to-fix-100vh-on-mobile-42bk) &nbsp;<sub>Sep 22, 2026</sub>
-- [React Derived State: Why That useState Is Probably a Bug](https://dev.to/parsajiravand/react-derived-state-why-that-usestate-is-probably-a-bug-37h0) &nbsp;<sub>Sep 20, 2026</sub>
-- [Your Browser Is Rejecting Every Drop On Purpose](https://dev.to/parsajiravand/your-browser-is-rejecting-every-drop-on-purpose-4jji) &nbsp;<sub>Sep 20, 2026</sub>
+<!-- BLOG-POST-LIST:START -->- [getCurrentPosition&lpar;&rpar; Doesn&#39;t Just Check — It Prompts](https://dev.to/parsajiravand/getcurrentposition-doesnt-just-check-it-prompts-52ap) &nbsp;<sub>Sep 26, 2026</sub>
+- [NestJS Guards: CanActivate, ExecutionContext &amp; Reflector](https://dev.to/parsajiravand/nestjs-guards-canactivate-executioncontext-reflector-1onm) &nbsp;<sub>Sep 26, 2026</sub>
+- [localStorage Isn&#39;t Free — It&#39;s Blocking Your Main Thread](https://dev.to/parsajiravand/localstorage-isnt-free-its-blocking-your-main-thread-nmn) &nbsp;<sub>Sep 26, 2026</sub>
+- [JSON.stringify Is Quietly Deleting Your File Uploads](https://dev.to/parsajiravand/jsonstringify-is-quietly-deleting-your-file-uploads-55ka) &nbsp;<sub>Sep 26, 2026</sub>
+- [The Background Task That Waited 40 Seconds for &#39;Idle&#39;](https://dev.to/parsajiravand/the-background-task-that-waited-40-seconds-for-idle-5736) &nbsp;<sub>Sep 26, 2026</sub>
+- [Vue Composables: The Shared State Trap &lpar;+ Cheat Sheet&rpar;](https://dev.to/parsajiravand/vue-composables-the-shared-state-trap-cheat-sheet-37ia) &nbsp;<sub>Sep 22, 2026</sub>
 <!-- BLOG-POST-LIST:END -->
 
 📖 [Read everything on dev.to →](https://dev.to/parsajiravand)
