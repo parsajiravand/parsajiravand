@@ -62,12 +62,12 @@ these numbers stay current on their own.
 
 ## Latest from dev.to
 
-<!-- BLOG-POST-LIST:START -->- [getCurrentPosition&lpar;&rpar; Doesn&#39;t Just Check — It Prompts](https://dev.to/parsajiravand/getcurrentposition-doesnt-just-check-it-prompts-52ap) &nbsp;<sub>Sep 26, 2026</sub>
+<!-- BLOG-POST-LIST:START -->- [Nuxt Server Routes Explained: How Nitro Builds Your API](https://dev.to/parsajiravand/nuxt-server-routes-explained-how-nitro-builds-your-api-9m2) &nbsp;<sub>Sep 29, 2026</sub>
+- [Your &#39;Save&#39; Button Makes Copies. The File System Access API Doesn&#39;t.](https://dev.to/parsajiravand/your-save-button-makes-copies-the-file-system-access-api-doesnt-2d7h) &nbsp;<sub>Sep 29, 2026</sub>
+- [Stop Guessing When Scrolling Stops — Use scrollend](https://dev.to/parsajiravand/stop-guessing-when-scrolling-stops-use-scrollend-42m7) &nbsp;<sub>Sep 29, 2026</sub>
+- [Next.js Route Handlers: GET Stopped Caching in 15 — How to Cache in 16](https://dev.to/parsajiravand/nextjs-route-handlers-get-stopped-caching-in-15-how-to-cache-in-16-56nb) &nbsp;<sub>Sep 29, 2026</sub>
+- [getCurrentPosition&lpar;&rpar; Doesn&#39;t Just Check — It Prompts](https://dev.to/parsajiravand/getcurrentposition-doesnt-just-check-it-prompts-52ap) &nbsp;<sub>Sep 26, 2026</sub>
 - [NestJS Guards: CanActivate, ExecutionContext &amp; Reflector](https://dev.to/parsajiravand/nestjs-guards-canactivate-executioncontext-reflector-1onm) &nbsp;<sub>Sep 26, 2026</sub>
-- [localStorage Isn&#39;t Free — It&#39;s Blocking Your Main Thread](https://dev.to/parsajiravand/localstorage-isnt-free-its-blocking-your-main-thread-nmn) &nbsp;<sub>Sep 26, 2026</sub>
-- [JSON.stringify Is Quietly Deleting Your File Uploads](https://dev.to/parsajiravand/jsonstringify-is-quietly-deleting-your-file-uploads-55ka) &nbsp;<sub>Sep 26, 2026</sub>
-- [The Background Task That Waited 40 Seconds for &#39;Idle&#39;](https://dev.to/parsajiravand/the-background-task-that-waited-40-seconds-for-idle-5736) &nbsp;<sub>Sep 26, 2026</sub>
-- [Vue Composables: The Shared State Trap &lpar;+ Cheat Sheet&rpar;](https://dev.to/parsajiravand/vue-composables-the-shared-state-trap-cheat-sheet-37ia) &nbsp;<sub>Sep 22, 2026</sub>
 <!-- BLOG-POST-LIST:END -->
 
 📖 [Read everything on dev.to →](https://dev.to/parsajiravand)
