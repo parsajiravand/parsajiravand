@@ -62,12 +62,12 @@ these numbers stay current on their own.
 
 ## Latest from dev.to
 
-<!-- BLOG-POST-LIST:START -->- [Nuxt Server Routes Explained: How Nitro Builds Your API](https://dev.to/parsajiravand/nuxt-server-routes-explained-how-nitro-builds-your-api-9m2) &nbsp;<sub>Sep 29, 2026</sub>
+<!-- BLOG-POST-LIST:START -->- [Vue computed&lpar;&rpar;: What It Caches and When It Reruns](https://dev.to/parsajiravand/vue-computed-what-it-caches-and-when-it-reruns-1e03) &nbsp;<sub>Sep 30, 2026</sub>
+- [Your `backdrop-filter` Is Working. Your Background Is Hiding It.](https://dev.to/parsajiravand/your-backdrop-filter-is-working-your-background-is-hiding-it-2k51) &nbsp;<sub>Sep 30, 2026</sub>
+- [Why your code review comments sound harsher than you meant](https://dev.to/parsajiravand/why-your-code-review-comments-sound-harsher-than-you-meant-16pd) &nbsp;<sub>Sep 30, 2026</sub>
+- [Blocking `&lt;script&gt;` Won&#39;t Stop innerHTML XSS. `setHTML&lpar;&rpar;` Will.](https://dev.to/parsajiravand/blocking-wont-stop-innerhtml-xss-sethtml-will-4dh2) &nbsp;<sub>Sep 30, 2026</sub>
+- [Nuxt Server Routes Explained: How Nitro Builds Your API](https://dev.to/parsajiravand/nuxt-server-routes-explained-how-nitro-builds-your-api-9m2) &nbsp;<sub>Sep 29, 2026</sub>
 - [Your &#39;Save&#39; Button Makes Copies. The File System Access API Doesn&#39;t.](https://dev.to/parsajiravand/your-save-button-makes-copies-the-file-system-access-api-doesnt-2d7h) &nbsp;<sub>Sep 29, 2026</sub>
-- [Stop Guessing When Scrolling Stops — Use scrollend](https://dev.to/parsajiravand/stop-guessing-when-scrolling-stops-use-scrollend-42m7) &nbsp;<sub>Sep 29, 2026</sub>
-- [Next.js Route Handlers: GET Stopped Caching in 15 — How to Cache in 16](https://dev.to/parsajiravand/nextjs-route-handlers-get-stopped-caching-in-15-how-to-cache-in-16-56nb) &nbsp;<sub>Sep 29, 2026</sub>
-- [getCurrentPosition&lpar;&rpar; Doesn&#39;t Just Check — It Prompts](https://dev.to/parsajiravand/getcurrentposition-doesnt-just-check-it-prompts-52ap) &nbsp;<sub>Sep 26, 2026</sub>
-- [NestJS Guards: CanActivate, ExecutionContext &amp; Reflector](https://dev.to/parsajiravand/nestjs-guards-canactivate-executioncontext-reflector-1onm) &nbsp;<sub>Sep 26, 2026</sub>
 <!-- BLOG-POST-LIST:END -->
 
 📖 [Read everything on dev.to →](https://dev.to/parsajiravand)
