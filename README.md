@@ -62,12 +62,12 @@ these numbers stay current on their own.
 
 ## Latest from dev.to
 
-<!-- BLOG-POST-LIST:START -->- [`:nth-child&lpar;even&rpar;` Counts Hidden Rows. `of S` Fixes Your Stripes](https://dev.to/parsajiravand/nth-childeven-counts-hidden-rows-of-s-fixes-your-stripes-4h3o) &nbsp;<sub>Oct 1, 2026</sub>
+<!-- BLOG-POST-LIST:START -->- [NestJS 12: Standard Schema Validation Without class-validator](https://dev.to/parsajiravand/nestjs-12-standard-schema-validation-without-class-validator-161f) &nbsp;<sub>Oct 2, 2026</sub>
+- [Stop Fixing Headline Gaps With Negative Margins. Use `text-box-trim`](https://dev.to/parsajiravand/stop-fixing-headline-gaps-with-negative-margins-use-text-box-trim-4a7k) &nbsp;<sub>Oct 2, 2026</sub>
+- [`:nth-child&lpar;even&rpar;` Counts Hidden Rows. `of S` Fixes Your Stripes](https://dev.to/parsajiravand/nth-childeven-counts-hidden-rows-of-s-fixes-your-stripes-4h3o) &nbsp;<sub>Oct 1, 2026</sub>
 - [Vue computed&lpar;&rpar;: What It Caches and When It Reruns](https://dev.to/parsajiravand/vue-computed-what-it-caches-and-when-it-reruns-1e03) &nbsp;<sub>Sep 30, 2026</sub>
 - [Your `backdrop-filter` Is Working. Your Background Is Hiding It.](https://dev.to/parsajiravand/your-backdrop-filter-is-working-your-background-is-hiding-it-2k51) &nbsp;<sub>Sep 30, 2026</sub>
 - [Why your code review comments sound harsher than you meant](https://dev.to/parsajiravand/why-your-code-review-comments-sound-harsher-than-you-meant-16pd) &nbsp;<sub>Sep 30, 2026</sub>
-- [Blocking `&lt;script&gt;` Won&#39;t Stop innerHTML XSS. `setHTML&lpar;&rpar;` Will.](https://dev.to/parsajiravand/blocking-wont-stop-innerhtml-xss-sethtml-will-4dh2) &nbsp;<sub>Sep 30, 2026</sub>
-- [Nuxt Server Routes Explained: How Nitro Builds Your API](https://dev.to/parsajiravand/nuxt-server-routes-explained-how-nitro-builds-your-api-9m2) &nbsp;<sub>Sep 29, 2026</sub>
 <!-- BLOG-POST-LIST:END -->
 
 📖 [Read everything on dev.to →](https://dev.to/parsajiravand)
