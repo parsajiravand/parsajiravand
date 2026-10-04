@@ -62,12 +62,12 @@ these numbers stay current on their own.
 
 ## Latest from dev.to
 
-<!-- BLOG-POST-LIST:START -->- [React 19.3 ViewTransition: Animate State Without Losing It](https://dev.to/parsajiravand/react-193-viewtransition-animate-state-without-losing-it-4kpp) &nbsp;<sub>Oct 3, 2026</sub>
+<!-- BLOG-POST-LIST:START -->- [Nuxt 4.5 SSR Streaming: The Route Rules That Disable It](https://dev.to/parsajiravand/nuxt-45-ssr-streaming-the-route-rules-that-disable-it-1daj) &nbsp;<sub>Oct 4, 2026</sub>
+- [Stop Hand-Rolling an Exclusive Accordion. `&lt;details name&gt;` Does It](https://dev.to/parsajiravand/stop-hand-rolling-an-exclusive-accordion-does-it-epi) &nbsp;<sub>Oct 4, 2026</sub>
+- [React 19.3 ViewTransition: Animate State Without Losing It](https://dev.to/parsajiravand/react-193-viewtransition-animate-state-without-losing-it-4kpp) &nbsp;<sub>Oct 3, 2026</sub>
 - [Your Search Box Lags. Debounce Hides It; `useTransition` Fixes It](https://dev.to/parsajiravand/your-search-box-lags-debounce-hides-it-usetransition-fixes-it-3l00) &nbsp;<sub>Oct 3, 2026</sub>
 - [NestJS 12: Standard Schema Validation Without class-validator](https://dev.to/parsajiravand/nestjs-12-standard-schema-validation-without-class-validator-161f) &nbsp;<sub>Oct 2, 2026</sub>
 - [Stop Fixing Headline Gaps With Negative Margins. Use `text-box-trim`](https://dev.to/parsajiravand/stop-fixing-headline-gaps-with-negative-margins-use-text-box-trim-4a7k) &nbsp;<sub>Oct 2, 2026</sub>
-- [`:nth-child&lpar;even&rpar;` Counts Hidden Rows. `of S` Fixes Your Stripes](https://dev.to/parsajiravand/nth-childeven-counts-hidden-rows-of-s-fixes-your-stripes-4h3o) &nbsp;<sub>Oct 1, 2026</sub>
-- [Vue computed&lpar;&rpar;: What It Caches and When It Reruns](https://dev.to/parsajiravand/vue-computed-what-it-caches-and-when-it-reruns-1e03) &nbsp;<sub>Sep 30, 2026</sub>
 <!-- BLOG-POST-LIST:END -->
 
 📖 [Read everything on dev.to →](https://dev.to/parsajiravand)
