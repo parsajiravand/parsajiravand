@@ -62,12 +62,12 @@ these numbers stay current on their own.
 
 ## Latest from dev.to
 
-<!-- BLOG-POST-LIST:START -->- [Junior interviews don&#39;t test what they used to, and nobody updated you](https://dev.to/parsajiravand/junior-interviews-dont-test-what-they-used-to-and-nobody-updated-you-1h01) &nbsp;<sub>Oct 7, 2026</sub>
+<!-- BLOG-POST-LIST:START -->- [Stop Losing Promise Errors. `unhandledrejection` Catches Them.](https://dev.to/parsajiravand/stop-losing-promise-errors-unhandledrejection-catches-them-2ckf) &nbsp;<sub>Oct 8, 2026</sub>
+- [Junior interviews don&#39;t test what they used to, and nobody updated you](https://dev.to/parsajiravand/junior-interviews-dont-test-what-they-used-to-and-nobody-updated-you-1h01) &nbsp;<sub>Oct 7, 2026</sub>
 - [Stop Retrying Immediately. Exponential Backoff Fixes It.](https://dev.to/parsajiravand/stop-retrying-immediately-exponential-backoff-fixes-it-1hce) &nbsp;<sub>Oct 7, 2026</sub>
 - [I Built Cross-Tab Logout. The storage Event Skipped One Tab.](https://dev.to/parsajiravand/i-built-cross-tab-logout-the-storage-event-skipped-one-tab-3ja2) &nbsp;<sub>Oct 6, 2026</sub>
 - [Next.js Streaming Metadata: Why Your `&lt;head&gt;` Looks Incomplete](https://dev.to/parsajiravand/nextjs-streaming-metadata-why-your-looks-incomplete-3gpk) &nbsp;<sub>Oct 6, 2026</sub>
 - [Vue defineModel: The v-model Contract, Explained](https://dev.to/parsajiravand/vue-definemodel-the-v-model-contract-explained-fc1) &nbsp;<sub>Oct 5, 2026</sub>
-- [`beforeunload` Can Still Kill Your bfcache. Mount It Only When Dirty.](https://dev.to/parsajiravand/beforeunload-can-still-kill-your-bfcache-mount-it-only-when-dirty-50jp) &nbsp;<sub>Oct 5, 2026</sub>
 <!-- BLOG-POST-LIST:END -->
 
 📖 [Read everything on dev.to →](https://dev.to/parsajiravand)
