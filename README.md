@@ -62,12 +62,12 @@ these numbers stay current on their own.
 
 ## Latest from dev.to
 
-<!-- BLOG-POST-LIST:START -->- [Nuxt 4 Migration: The Breaking Changes That Actually Bite](https://dev.to/parsajiravand/nuxt-4-migration-the-breaking-changes-that-actually-bite-6k1) &nbsp;<sub>Oct 11, 2026</sub>
+<!-- BLOG-POST-LIST:START -->- [Vue watch vs watchEffect: The Complete Guide](https://dev.to/parsajiravand/vue-watch-vs-watcheffect-the-complete-guide-2f40) &nbsp;<sub>Oct 12, 2026</sub>
+- [I Shipped a Fix. My Service Worker Kept Serving the Bug.](https://dev.to/parsajiravand/i-shipped-a-fix-my-service-worker-kept-serving-the-bug-na4) &nbsp;<sub>Oct 12, 2026</sub>
+- [Nuxt 4 Migration: The Breaking Changes That Actually Bite](https://dev.to/parsajiravand/nuxt-4-migration-the-breaking-changes-that-actually-bite-6k1) &nbsp;<sub>Oct 11, 2026</sub>
 - [Your Lighthouse Score Is 100. Long Animation Frames Explain the Jank.](https://dev.to/parsajiravand/your-lighthouse-score-is-100-long-animation-frames-explain-the-jank-1fip) &nbsp;<sub>Oct 11, 2026</sub>
 - [React 19.3 Fragment Refs: Skip the Wrapper Div for a Ref](https://dev.to/parsajiravand/react-193-fragment-refs-skip-the-wrapper-div-for-a-ref-6h7) &nbsp;<sub>Oct 10, 2026</sub>
 - [You Added `will-change` to Fix the Jank. You Made It Worse.](https://dev.to/parsajiravand/you-added-will-change-to-fix-the-jank-you-made-it-worse-51eg) &nbsp;<sub>Oct 10, 2026</sub>
-- [You&#39;re Animating for Everyone. `prefers-reduced-motion` Fixes That.](https://dev.to/parsajiravand/youre-animating-for-everyone-prefers-reduced-motion-fixes-that-2ond) &nbsp;<sub>Oct 9, 2026</sub>
-- [Stop Losing Promise Errors. `unhandledrejection` Catches Them.](https://dev.to/parsajiravand/stop-losing-promise-errors-unhandledrejection-catches-them-2ckf) &nbsp;<sub>Oct 8, 2026</sub>
 <!-- BLOG-POST-LIST:END -->
 
 📖 [Read everything on dev.to →](https://dev.to/parsajiravand)
