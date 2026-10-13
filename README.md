@@ -62,12 +62,12 @@ these numbers stay current on their own.
 
 ## Latest from dev.to
 
-<!-- BLOG-POST-LIST:START -->- [Vue watch vs watchEffect: The Complete Guide](https://dev.to/parsajiravand/vue-watch-vs-watcheffect-the-complete-guide-2f40) &nbsp;<sub>Oct 12, 2026</sub>
+<!-- BLOG-POST-LIST:START -->- [Your Tabs Each Open Their Own WebSocket. navigator.locks Elects One.](https://dev.to/parsajiravand/your-tabs-each-open-their-own-websocket-navigatorlocks-elects-one-24gh) &nbsp;<sub>Oct 13, 2026</sub>
+- [Next.js 16 Image: priority Deprecated, quality Now Allowlisted](https://dev.to/parsajiravand/nextjs-16-image-priority-deprecated-quality-now-allowlisted-1a06) &nbsp;<sub>Oct 13, 2026</sub>
+- [Vue watch vs watchEffect: The Complete Guide](https://dev.to/parsajiravand/vue-watch-vs-watcheffect-the-complete-guide-2f40) &nbsp;<sub>Oct 12, 2026</sub>
 - [I Shipped a Fix. My Service Worker Kept Serving the Bug.](https://dev.to/parsajiravand/i-shipped-a-fix-my-service-worker-kept-serving-the-bug-na4) &nbsp;<sub>Oct 12, 2026</sub>
 - [Nuxt 4 Migration: The Breaking Changes That Actually Bite](https://dev.to/parsajiravand/nuxt-4-migration-the-breaking-changes-that-actually-bite-6k1) &nbsp;<sub>Oct 11, 2026</sub>
 - [Your Lighthouse Score Is 100. Long Animation Frames Explain the Jank.](https://dev.to/parsajiravand/your-lighthouse-score-is-100-long-animation-frames-explain-the-jank-1fip) &nbsp;<sub>Oct 11, 2026</sub>
-- [React 19.3 Fragment Refs: Skip the Wrapper Div for a Ref](https://dev.to/parsajiravand/react-193-fragment-refs-skip-the-wrapper-div-for-a-ref-6h7) &nbsp;<sub>Oct 10, 2026</sub>
-- [You Added `will-change` to Fix the Jank. You Made It Worse.](https://dev.to/parsajiravand/you-added-will-change-to-fix-the-jank-you-made-it-worse-51eg) &nbsp;<sub>Oct 10, 2026</sub>
 <!-- BLOG-POST-LIST:END -->
 
 📖 [Read everything on dev.to →](https://dev.to/parsajiravand)
