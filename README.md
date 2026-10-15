@@ -62,12 +62,12 @@ these numbers stay current on their own.
 
 ## Latest from dev.to
 
-<!-- BLOG-POST-LIST:START -->- [Remote work means someone else is telling your story for you](https://dev.to/parsajiravand/remote-work-means-someone-else-is-telling-your-story-for-you-5e54) &nbsp;<sub>Oct 14, 2026</sub>
+<!-- BLOG-POST-LIST:START -->- [Stop Electing a Leader Tab. SharedWorker Just Holds the Connection.](https://dev.to/parsajiravand/stop-electing-a-leader-tab-sharedworker-just-holds-the-connection-1623) &nbsp;<sub>Oct 15, 2026</sub>
+- [I Turned 44 Blog Posts Into a Frontend Roadmap You Have to Pass](https://dev.to/parsajiravand/i-turned-44-blog-posts-into-a-frontend-roadmap-you-have-to-pass-44ea) &nbsp;<sub>Oct 14, 2026</sub>
+- [Remote work means someone else is telling your story for you](https://dev.to/parsajiravand/remote-work-means-someone-else-is-telling-your-story-for-you-5e54) &nbsp;<sub>Oct 14, 2026</sub>
 - [You Installed a Library for Numbers PerformanceObserver Already Has.](https://dev.to/parsajiravand/you-installed-a-library-for-numbers-performanceobserver-already-has-1a78) &nbsp;<sub>Oct 14, 2026</sub>
 - [Your Tabs Each Open Their Own WebSocket. navigator.locks Elects One.](https://dev.to/parsajiravand/your-tabs-each-open-their-own-websocket-navigatorlocks-elects-one-24gh) &nbsp;<sub>Oct 13, 2026</sub>
 - [Next.js 16 Image: priority Deprecated, quality Now Allowlisted](https://dev.to/parsajiravand/nextjs-16-image-priority-deprecated-quality-now-allowlisted-1a06) &nbsp;<sub>Oct 13, 2026</sub>
-- [Vue watch vs watchEffect: The Complete Guide](https://dev.to/parsajiravand/vue-watch-vs-watcheffect-the-complete-guide-2f40) &nbsp;<sub>Oct 12, 2026</sub>
-- [I Shipped a Fix. My Service Worker Kept Serving the Bug.](https://dev.to/parsajiravand/i-shipped-a-fix-my-service-worker-kept-serving-the-bug-na4) &nbsp;<sub>Oct 12, 2026</sub>
 <!-- BLOG-POST-LIST:END -->
 
 📖 [Read everything on dev.to →](https://dev.to/parsajiravand)
