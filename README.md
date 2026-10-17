@@ -62,12 +62,12 @@ these numbers stay current on their own.
 
 ## Latest from dev.to
 
-<!-- BLOG-POST-LIST:START -->- [Stop Letting One Widget Reflow the Whole Page. `contain` Scopes It.](https://dev.to/parsajiravand/stop-letting-one-widget-reflow-the-whole-page-contain-scopes-it-1dgg) &nbsp;<sub>Oct 16, 2026</sub>
+<!-- BLOG-POST-LIST:START -->- [React 19.2 useEffectEvent: Why It Won&#39;t Fix Your Deps Array](https://dev.to/parsajiravand/react-192-useeffectevent-why-it-wont-fix-your-deps-array-4743) &nbsp;<sub>Oct 17, 2026</sub>
+- [Inferred Type Predicates Won&#39;t Save filter&lpar;Boolean&rpar;. Here&#39;s What Will.](https://dev.to/parsajiravand/inferred-type-predicates-wont-save-filterboolean-heres-what-will-2dok) &nbsp;<sub>Oct 17, 2026</sub>
+- [Stop Letting One Widget Reflow the Whole Page. `contain` Scopes It.](https://dev.to/parsajiravand/stop-letting-one-widget-reflow-the-whole-page-contain-scopes-it-1dgg) &nbsp;<sub>Oct 16, 2026</sub>
 - [Stop Electing a Leader Tab. SharedWorker Just Holds the Connection.](https://dev.to/parsajiravand/stop-electing-a-leader-tab-sharedworker-just-holds-the-connection-1623) &nbsp;<sub>Oct 15, 2026</sub>
 - [I Turned 44 Blog Posts Into a Frontend Roadmap You Have to Pass](https://dev.to/parsajiravand/i-turned-44-blog-posts-into-a-frontend-roadmap-you-have-to-pass-44ea) &nbsp;<sub>Oct 14, 2026</sub>
 - [Remote work means someone else is telling your story for you](https://dev.to/parsajiravand/remote-work-means-someone-else-is-telling-your-story-for-you-5e54) &nbsp;<sub>Oct 14, 2026</sub>
-- [You Installed a Library for Numbers PerformanceObserver Already Has.](https://dev.to/parsajiravand/you-installed-a-library-for-numbers-performanceobserver-already-has-1a78) &nbsp;<sub>Oct 14, 2026</sub>
-- [Your Tabs Each Open Their Own WebSocket. navigator.locks Elects One.](https://dev.to/parsajiravand/your-tabs-each-open-their-own-websocket-navigatorlocks-elects-one-24gh) &nbsp;<sub>Oct 13, 2026</sub>
 <!-- BLOG-POST-LIST:END -->
 
 📖 [Read everything on dev.to →](https://dev.to/parsajiravand)
