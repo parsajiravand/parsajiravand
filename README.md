@@ -62,12 +62,12 @@ these numbers stay current on their own.
 
 ## Latest from dev.to
 
-<!-- BLOG-POST-LIST:START -->- [Nuxt 4.6 useSession: Server Sessions Without a Database](https://dev.to/parsajiravand/nuxt-46-usesession-server-sessions-without-a-database-19f0) &nbsp;<sub>Oct 18, 2026</sub>
+<!-- BLOG-POST-LIST:START -->- [Vue 3.6: When a Watcher Throws, Your Other Watchers Stall](https://dev.to/parsajiravand/vue-36-when-a-watcher-throws-your-other-watchers-stall-25ge) &nbsp;<sub>Oct 19, 2026</sub>
+- [Your &#39;Expand All&#39; Button Is Quietly Causing Layout Thrashing](https://dev.to/parsajiravand/your-expand-all-button-is-quietly-causing-layout-thrashing-2lpj) &nbsp;<sub>Oct 19, 2026</sub>
+- [Nuxt 4.6 useSession: Server Sessions Without a Database](https://dev.to/parsajiravand/nuxt-46-usesession-server-sessions-without-a-database-19f0) &nbsp;<sub>Oct 18, 2026</sub>
 - [Stop Shipping Custom UI That Disappears in `forced-colors` Mode](https://dev.to/parsajiravand/stop-shipping-custom-ui-that-disappears-in-forced-colors-mode-4dnc) &nbsp;<sub>Oct 18, 2026</sub>
 - [React 19.2 useEffectEvent: Why It Won&#39;t Fix Your Deps Array](https://dev.to/parsajiravand/react-192-useeffectevent-why-it-wont-fix-your-deps-array-4743) &nbsp;<sub>Oct 17, 2026</sub>
 - [Inferred Type Predicates Won&#39;t Save filter&lpar;Boolean&rpar;. Here&#39;s What Will.](https://dev.to/parsajiravand/inferred-type-predicates-wont-save-filterboolean-heres-what-will-2dok) &nbsp;<sub>Oct 17, 2026</sub>
-- [Stop Letting One Widget Reflow the Whole Page. `contain` Scopes It.](https://dev.to/parsajiravand/stop-letting-one-widget-reflow-the-whole-page-contain-scopes-it-1dgg) &nbsp;<sub>Oct 16, 2026</sub>
-- [Stop Electing a Leader Tab. SharedWorker Just Holds the Connection.](https://dev.to/parsajiravand/stop-electing-a-leader-tab-sharedworker-just-holds-the-connection-1623) &nbsp;<sub>Oct 15, 2026</sub>
 <!-- BLOG-POST-LIST:END -->
 
 📖 [Read everything on dev.to →](https://dev.to/parsajiravand)
