@@ -62,12 +62,12 @@ these numbers stay current on their own.
 
 ## Latest from dev.to
 
-<!-- BLOG-POST-LIST:START -->- [Stop Jamming Translate, Rotate, and Scale Into One `transform`](https://dev.to/parsajiravand/stop-jamming-translate-rotate-and-scale-into-one-transform-231h) &nbsp;<sub>Oct 22, 2026</sub>
+<!-- BLOG-POST-LIST:START -->- [Your Custom Hooks Tear in React 18. `useSyncExternalStore` Fixes It.](https://dev.to/parsajiravand/your-custom-hooks-tear-in-react-18-usesyncexternalstore-fixes-it-2ogd) &nbsp;<sub>Oct 23, 2026</sub>
+- [NestJS 12 Lifecycle Hooks: The Order You Can&#39;t Assume](https://dev.to/parsajiravand/nestjs-12-lifecycle-hooks-the-order-you-cant-assume-amn) &nbsp;<sub>Oct 23, 2026</sub>
+- [Stop Jamming Translate, Rotate, and Scale Into One `transform`](https://dev.to/parsajiravand/stop-jamming-translate-rotate-and-scale-into-one-transform-231h) &nbsp;<sub>Oct 22, 2026</sub>
 - [Someone else got the promotion, and you&#39;re being told to wait](https://dev.to/parsajiravand/someone-else-got-the-promotion-and-youre-being-told-to-wait-2ej1) &nbsp;<sub>Oct 21, 2026</sub>
 - [You&#39;re Letting the Browser Guess. `fetchpriority` Fixes That.](https://dev.to/parsajiravand/youre-letting-the-browser-guess-fetchpriority-fixes-that-53ko) &nbsp;<sub>Oct 21, 2026</sub>
 - [Next.js 16.3 Instant Navigations: How Partial Prefetching Works](https://dev.to/parsajiravand/nextjs-163-instant-navigations-how-partial-prefetching-works-5a6h) &nbsp;<sub>Oct 20, 2026</sub>
-- [Stop Formatting Currency With Regex. `Intl.NumberFormat` Does It.](https://dev.to/parsajiravand/stop-formatting-currency-with-regex-intlnumberformat-does-it-220b) &nbsp;<sub>Oct 20, 2026</sub>
-- [Vue 3.6: When a Watcher Throws, Your Other Watchers Stall](https://dev.to/parsajiravand/vue-36-when-a-watcher-throws-your-other-watchers-stall-25ge) &nbsp;<sub>Oct 19, 2026</sub>
 <!-- BLOG-POST-LIST:END -->
 
 📖 [Read everything on dev.to →](https://dev.to/parsajiravand)
