@@ -62,12 +62,12 @@ these numbers stay current on their own.
 
 ## Latest from dev.to
 
-<!-- BLOG-POST-LIST:START -->- [Vue v-for: The Directive Unmounted Hook Bug, Fixed in 3.5.41](https://dev.to/parsajiravand/vue-v-for-the-directive-unmounted-hook-bug-fixed-in-3541-1nk6) &nbsp;<sub>Oct 26, 2026</sub>
+<!-- BLOG-POST-LIST:START -->- [Next.js 16 updateTag vs revalidateTag: What Changed](https://dev.to/parsajiravand/nextjs-16-updatetag-vs-revalidatetag-what-changed-1mci) &nbsp;<sub>Oct 27, 2026</sub>
+- [Stop Writing JS to Detect a Stuck Header. `scroll-state&lpar;&rpar;` Fixes It.](https://dev.to/parsajiravand/stop-writing-js-to-detect-a-stuck-header-scroll-state-fixes-it-4h40) &nbsp;<sub>Oct 27, 2026</sub>
+- [Vue v-for: The Directive Unmounted Hook Bug, Fixed in 3.5.41](https://dev.to/parsajiravand/vue-v-for-the-directive-unmounted-hook-bug-fixed-in-3541-1nk6) &nbsp;<sub>Oct 26, 2026</sub>
 - [You&#39;re Debouncing Scroll Wrong. requestAnimationFrame Fixes It.](https://dev.to/parsajiravand/youre-debouncing-scroll-wrong-requestanimationframe-fixes-it-2pa5) &nbsp;<sub>Oct 26, 2026</sub>
 - [My Reducer&#39;s Switch Stopped Being Exhaustive. `as const` Fixed It.](https://dev.to/parsajiravand/my-reducers-switch-stopped-being-exhaustive-as-const-fixed-it-4aa4) &nbsp;<sub>Oct 25, 2026</sub>
 - [Nuxt 4.6 nuxt/server: Why Mixing h3 Imports Throws NUXT_E8012](https://dev.to/parsajiravand/nuxt-46-nuxtserver-why-mixing-h3-imports-throws-nuxte8012-11fn) &nbsp;<sub>Oct 25, 2026</sub>
-- [Your Custom Hooks Tear in React 18. `useSyncExternalStore` Fixes It.](https://dev.to/parsajiravand/your-custom-hooks-tear-in-react-18-usesyncexternalstore-fixes-it-2ogd) &nbsp;<sub>Oct 23, 2026</sub>
-- [NestJS 12 Lifecycle Hooks: The Order You Can&#39;t Assume](https://dev.to/parsajiravand/nestjs-12-lifecycle-hooks-the-order-you-cant-assume-amn) &nbsp;<sub>Oct 23, 2026</sub>
 <!-- BLOG-POST-LIST:END -->
 
 📖 [Read everything on dev.to →](https://dev.to/parsajiravand)
