@@ -62,12 +62,12 @@ these numbers stay current on their own.
 
 ## Latest from dev.to
 
-<!-- BLOG-POST-LIST:START -->- [When saying no feels like volunteering to be next](https://dev.to/parsajiravand/when-saying-no-feels-like-volunteering-to-be-next-381d) &nbsp;<sub>Oct 28, 2026</sub>
+<!-- BLOG-POST-LIST:START -->- [font-display: swap Fixes Invisible Text. It Also Shifts Your Layout.](https://dev.to/parsajiravand/font-display-swap-fixes-invisible-text-it-also-shifts-your-layout-4dlh) &nbsp;<sub>Oct 29, 2026</sub>
+- [When saying no feels like volunteering to be next](https://dev.to/parsajiravand/when-saying-no-feels-like-volunteering-to-be-next-381d) &nbsp;<sub>Oct 28, 2026</sub>
 - [Stop Calling form.submit&lpar;&rpar;. Use requestSubmit&lpar;&rpar; Instead.](https://dev.to/parsajiravand/stop-calling-formsubmit-use-requestsubmit-instead-52ho) &nbsp;<sub>Oct 28, 2026</sub>
 - [Next.js 16 updateTag vs revalidateTag: What Changed](https://dev.to/parsajiravand/nextjs-16-updatetag-vs-revalidatetag-what-changed-1mci) &nbsp;<sub>Oct 27, 2026</sub>
 - [Stop Writing JS to Detect a Stuck Header. `scroll-state&lpar;&rpar;` Fixes It.](https://dev.to/parsajiravand/stop-writing-js-to-detect-a-stuck-header-scroll-state-fixes-it-4h40) &nbsp;<sub>Oct 27, 2026</sub>
 - [Vue v-for: The Directive Unmounted Hook Bug, Fixed in 3.5.41](https://dev.to/parsajiravand/vue-v-for-the-directive-unmounted-hook-bug-fixed-in-3541-1nk6) &nbsp;<sub>Oct 26, 2026</sub>
-- [You&#39;re Debouncing Scroll Wrong. requestAnimationFrame Fixes It.](https://dev.to/parsajiravand/youre-debouncing-scroll-wrong-requestanimationframe-fixes-it-2pa5) &nbsp;<sub>Oct 26, 2026</sub>
 <!-- BLOG-POST-LIST:END -->
 
 📖 [Read everything on dev.to →](https://dev.to/parsajiravand)
