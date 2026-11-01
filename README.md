@@ -62,12 +62,12 @@ these numbers stay current on their own.
 
 ## Latest from dev.to
 
-<!-- BLOG-POST-LIST:START -->- [NestJS 12: @Optional&lpar;&rpar; Not Inherited by a Redeclared Constructor](https://dev.to/parsajiravand/nestjs-12-optional-not-inherited-by-a-redeclared-constructor-5hil) &nbsp;<sub>Oct 30, 2026</sub>
+<!-- BLOG-POST-LIST:START -->- [Stop Hardcoding Color Variants. Relative Color Syntax Does It.](https://dev.to/parsajiravand/stop-hardcoding-color-variants-relative-color-syntax-does-it-1f8k) &nbsp;<sub>Nov 1, 2026</sub>
+- [You&#39;re Writing Mouse and Touch Handlers. Pointer Events Does Both.](https://dev.to/parsajiravand/youre-writing-mouse-and-touch-handlers-pointer-events-does-both-574j) &nbsp;<sub>Nov 1, 2026</sub>
+- [NestJS 12: @Optional&lpar;&rpar; Not Inherited by a Redeclared Constructor](https://dev.to/parsajiravand/nestjs-12-optional-not-inherited-by-a-redeclared-constructor-5hil) &nbsp;<sub>Oct 30, 2026</sub>
 - [Stop Using a JS Masonry Library. CSS Grid Lanes Does It Natively.](https://dev.to/parsajiravand/stop-using-a-js-masonry-library-css-grid-lanes-does-it-natively-n42) &nbsp;<sub>Oct 30, 2026</sub>
 - [font-display: swap Fixes Invisible Text. It Also Shifts Your Layout.](https://dev.to/parsajiravand/font-display-swap-fixes-invisible-text-it-also-shifts-your-layout-4dlh) &nbsp;<sub>Oct 29, 2026</sub>
 - [When saying no feels like volunteering to be next](https://dev.to/parsajiravand/when-saying-no-feels-like-volunteering-to-be-next-381d) &nbsp;<sub>Oct 28, 2026</sub>
-- [Stop Calling form.submit&lpar;&rpar;. Use requestSubmit&lpar;&rpar; Instead.](https://dev.to/parsajiravand/stop-calling-formsubmit-use-requestsubmit-instead-52ho) &nbsp;<sub>Oct 28, 2026</sub>
-- [Next.js 16 updateTag vs revalidateTag: What Changed](https://dev.to/parsajiravand/nextjs-16-updatetag-vs-revalidatetag-what-changed-1mci) &nbsp;<sub>Oct 27, 2026</sub>
 <!-- BLOG-POST-LIST:END -->
 
 📖 [Read everything on dev.to →](https://dev.to/parsajiravand)
