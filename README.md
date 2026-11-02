@@ -62,12 +62,12 @@ these numbers stay current on their own.
 
 ## Latest from dev.to
 
-<!-- BLOG-POST-LIST:START -->- [Stop Hardcoding Color Variants. Relative Color Syntax Does It.](https://dev.to/parsajiravand/stop-hardcoding-color-variants-relative-color-syntax-does-it-1f8k) &nbsp;<sub>Nov 1, 2026</sub>
+<!-- BLOG-POST-LIST:START -->- [Vue provide/inject: Why You Should Never Skip readonly&lpar;&rpar;](https://dev.to/parsajiravand/vue-provideinject-why-you-should-never-skip-readonly-48ce) &nbsp;<sub>Nov 2, 2026</sub>
+- [I Deleted My Scroll-Lock Library&#39;s Ugly Hack. `scrollbar-gutter` Replaces It.](https://dev.to/parsajiravand/i-deleted-my-scroll-lock-librarys-ugly-hack-scrollbar-gutter-replaces-it-42bh) &nbsp;<sub>Nov 2, 2026</sub>
+- [React Activity Component: The State Between Render and Remount](https://dev.to/parsajiravand/react-activity-component-the-state-between-render-and-remount-5d0p) &nbsp;<sub>Nov 1, 2026</sub>
+- [Stop Hardcoding Color Variants. Relative Color Syntax Does It.](https://dev.to/parsajiravand/stop-hardcoding-color-variants-relative-color-syntax-does-it-1f8k) &nbsp;<sub>Nov 1, 2026</sub>
 - [You&#39;re Writing Mouse and Touch Handlers. Pointer Events Does Both.](https://dev.to/parsajiravand/youre-writing-mouse-and-touch-handlers-pointer-events-does-both-574j) &nbsp;<sub>Nov 1, 2026</sub>
 - [NestJS 12: @Optional&lpar;&rpar; Not Inherited by a Redeclared Constructor](https://dev.to/parsajiravand/nestjs-12-optional-not-inherited-by-a-redeclared-constructor-5hil) &nbsp;<sub>Oct 30, 2026</sub>
-- [Stop Using a JS Masonry Library. CSS Grid Lanes Does It Natively.](https://dev.to/parsajiravand/stop-using-a-js-masonry-library-css-grid-lanes-does-it-natively-n42) &nbsp;<sub>Oct 30, 2026</sub>
-- [font-display: swap Fixes Invisible Text. It Also Shifts Your Layout.](https://dev.to/parsajiravand/font-display-swap-fixes-invisible-text-it-also-shifts-your-layout-4dlh) &nbsp;<sub>Oct 29, 2026</sub>
-- [When saying no feels like volunteering to be next](https://dev.to/parsajiravand/when-saying-no-feels-like-volunteering-to-be-next-381d) &nbsp;<sub>Oct 28, 2026</sub>
 <!-- BLOG-POST-LIST:END -->
 
 📖 [Read everything on dev.to →](https://dev.to/parsajiravand)
