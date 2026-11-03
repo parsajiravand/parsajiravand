@@ -62,12 +62,12 @@ these numbers stay current on their own.
 
 ## Latest from dev.to
 
-<!-- BLOG-POST-LIST:START -->- [Vue provide/inject: Why You Should Never Skip readonly&lpar;&rpar;](https://dev.to/parsajiravand/vue-provideinject-why-you-should-never-skip-readonly-48ce) &nbsp;<sub>Nov 2, 2026</sub>
+<!-- BLOG-POST-LIST:START -->- [Your Canvas Is Freezing the Page. OffscreenCanvas Fixes That.](https://dev.to/parsajiravand/your-canvas-is-freezing-the-page-offscreencanvas-fixes-that-hn9) &nbsp;<sub>Nov 3, 2026</sub>
+- [Next.js 16.4 ensureStatic: Locking Routes Fully Static](https://dev.to/parsajiravand/nextjs-164-ensurestatic-locking-routes-fully-static-30dp) &nbsp;<sub>Nov 3, 2026</sub>
+- [Vue provide/inject: Why You Should Never Skip readonly&lpar;&rpar;](https://dev.to/parsajiravand/vue-provideinject-why-you-should-never-skip-readonly-48ce) &nbsp;<sub>Nov 2, 2026</sub>
 - [I Deleted My Scroll-Lock Library&#39;s Ugly Hack. `scrollbar-gutter` Replaces It.](https://dev.to/parsajiravand/i-deleted-my-scroll-lock-librarys-ugly-hack-scrollbar-gutter-replaces-it-42bh) &nbsp;<sub>Nov 2, 2026</sub>
 - [React Activity Component: The State Between Render and Remount](https://dev.to/parsajiravand/react-activity-component-the-state-between-render-and-remount-5d0p) &nbsp;<sub>Nov 1, 2026</sub>
 - [Stop Hardcoding Color Variants. Relative Color Syntax Does It.](https://dev.to/parsajiravand/stop-hardcoding-color-variants-relative-color-syntax-does-it-1f8k) &nbsp;<sub>Nov 1, 2026</sub>
-- [You&#39;re Writing Mouse and Touch Handlers. Pointer Events Does Both.](https://dev.to/parsajiravand/youre-writing-mouse-and-touch-handlers-pointer-events-does-both-574j) &nbsp;<sub>Nov 1, 2026</sub>
-- [NestJS 12: @Optional&lpar;&rpar; Not Inherited by a Redeclared Constructor](https://dev.to/parsajiravand/nestjs-12-optional-not-inherited-by-a-redeclared-constructor-5hil) &nbsp;<sub>Oct 30, 2026</sub>
 <!-- BLOG-POST-LIST:END -->
 
 📖 [Read everything on dev.to →](https://dev.to/parsajiravand)
