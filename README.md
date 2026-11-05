@@ -62,12 +62,12 @@ these numbers stay current on their own.
 
 ## Latest from dev.to
 
-<!-- BLOG-POST-LIST:START -->- [Running the meeting is a different job than being in one](https://dev.to/parsajiravand/running-the-meeting-is-a-different-job-than-being-in-one-12f5) &nbsp;<sub>Nov 4, 2026</sub>
+<!-- BLOG-POST-LIST:START -->- [Stop Hacking Base64 With btoa&lpar;&rpar;. toBase64&lpar;&rpar; Fixes It Natively.](https://dev.to/parsajiravand/stop-hacking-base64-with-btoa-tobase64-fixes-it-natively-2kkm) &nbsp;<sub>Nov 5, 2026</sub>
+- [Running the meeting is a different job than being in one](https://dev.to/parsajiravand/running-the-meeting-is-a-different-job-than-being-in-one-12f5) &nbsp;<sub>Nov 4, 2026</sub>
 - [getCurrentPosition&lpar;&rpar; Has No Default Timeout. That&#39;s the Trap.](https://dev.to/parsajiravand/getcurrentposition-has-no-default-timeout-thats-the-trap-3h5p) &nbsp;<sub>Nov 4, 2026</sub>
 - [Your Canvas Is Freezing the Page. OffscreenCanvas Fixes That.](https://dev.to/parsajiravand/your-canvas-is-freezing-the-page-offscreencanvas-fixes-that-hn9) &nbsp;<sub>Nov 3, 2026</sub>
 - [Next.js 16.4 ensureStatic: Locking Routes Fully Static](https://dev.to/parsajiravand/nextjs-164-ensurestatic-locking-routes-fully-static-30dp) &nbsp;<sub>Nov 3, 2026</sub>
 - [Vue provide/inject: Why You Should Never Skip readonly&lpar;&rpar;](https://dev.to/parsajiravand/vue-provideinject-why-you-should-never-skip-readonly-48ce) &nbsp;<sub>Nov 2, 2026</sub>
-- [I Deleted My Scroll-Lock Library&#39;s Ugly Hack. `scrollbar-gutter` Replaces It.](https://dev.to/parsajiravand/i-deleted-my-scroll-lock-librarys-ugly-hack-scrollbar-gutter-replaces-it-42bh) &nbsp;<sub>Nov 2, 2026</sub>
 <!-- BLOG-POST-LIST:END -->
 
 📖 [Read everything on dev.to →](https://dev.to/parsajiravand)
