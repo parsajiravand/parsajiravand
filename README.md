@@ -62,12 +62,12 @@ these numbers stay current on their own.
 
 ## Latest from dev.to
 
-<!-- BLOG-POST-LIST:START -->- [Stop Shipping Search Boxes With a Race Condition](https://dev.to/parsajiravand/stop-shipping-search-boxes-with-a-race-condition-169g) &nbsp;<sub>Nov 7, 2026</sub>
+<!-- BLOG-POST-LIST:START -->- [Stop Writing JavaScript to Open Dialogs. `commandfor` Fixes It.](https://dev.to/parsajiravand/stop-writing-javascript-to-open-dialogs-commandfor-fixes-it-5ddg) &nbsp;<sub>Nov 8, 2026</sub>
+- [Stop Shipping Search Boxes With a Race Condition](https://dev.to/parsajiravand/stop-shipping-search-boxes-with-a-race-condition-169g) &nbsp;<sub>Nov 7, 2026</sub>
 - [You&#39;re Blocking Scroll by Default. `passive: true` Fixes It.](https://dev.to/parsajiravand/youre-blocking-scroll-by-default-passive-true-fixes-it-24lf) &nbsp;<sub>Nov 6, 2026</sub>
 - [NestJS 12.2: Why validationError.target Is Now undefined](https://dev.to/parsajiravand/nestjs-122-why-validationerrortarget-is-now-undefined-53n6) &nbsp;<sub>Nov 6, 2026</sub>
 - [Stop Hacking Base64 With btoa&lpar;&rpar;. toBase64&lpar;&rpar; Fixes It Natively.](https://dev.to/parsajiravand/stop-hacking-base64-with-btoa-tobase64-fixes-it-natively-2kkm) &nbsp;<sub>Nov 5, 2026</sub>
 - [Running the meeting is a different job than being in one](https://dev.to/parsajiravand/running-the-meeting-is-a-different-job-than-being-in-one-12f5) &nbsp;<sub>Nov 4, 2026</sub>
-- [getCurrentPosition&lpar;&rpar; Has No Default Timeout. That&#39;s the Trap.](https://dev.to/parsajiravand/getcurrentposition-has-no-default-timeout-thats-the-trap-3h5p) &nbsp;<sub>Nov 4, 2026</sub>
 <!-- BLOG-POST-LIST:END -->
 
 📖 [Read everything on dev.to →](https://dev.to/parsajiravand)
