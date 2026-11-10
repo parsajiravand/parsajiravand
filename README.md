@@ -62,12 +62,12 @@ these numbers stay current on their own.
 
 ## Latest from dev.to
 
-<!-- BLOG-POST-LIST:START -->- [Vue Teleport defer: The Target-Timing Bug Behind a Dozen Patches](https://dev.to/parsajiravand/vue-teleport-defer-the-target-timing-bug-behind-a-dozen-patches-22p9) &nbsp;<sub>Nov 9, 2026</sub>
+<!-- BLOG-POST-LIST:START -->- [Your `setTimeout&lpar;fn, 0&rpar;` Doesn&#39;t Run Next. `queueMicrotask` Does.](https://dev.to/parsajiravand/your-settimeoutfn-0-doesnt-run-next-queuemicrotask-does-423n) &nbsp;<sub>Nov 10, 2026</sub>
+- [Next.js 16.4.5: How unstable_cache Leaked Data Across Root Params](https://dev.to/parsajiravand/nextjs-1645-how-unstablecache-leaked-data-across-root-params-1om0) &nbsp;<sub>Nov 10, 2026</sub>
+- [Vue Teleport defer: The Target-Timing Bug Behind a Dozen Patches](https://dev.to/parsajiravand/vue-teleport-defer-the-target-timing-bug-behind-a-dozen-patches-22p9) &nbsp;<sub>Nov 9, 2026</sub>
 - [Stop Blaming `prefers-color-scheme` For Your Theme Flash](https://dev.to/parsajiravand/stop-blaming-prefers-color-scheme-for-your-theme-flash-40oi) &nbsp;<sub>Nov 9, 2026</sub>
 - [Stop Writing JavaScript to Open Dialogs. `commandfor` Fixes It.](https://dev.to/parsajiravand/stop-writing-javascript-to-open-dialogs-commandfor-fixes-it-5ddg) &nbsp;<sub>Nov 8, 2026</sub>
 - [Stop Shipping Search Boxes With a Race Condition](https://dev.to/parsajiravand/stop-shipping-search-boxes-with-a-race-condition-169g) &nbsp;<sub>Nov 7, 2026</sub>
-- [You&#39;re Blocking Scroll by Default. `passive: true` Fixes It.](https://dev.to/parsajiravand/youre-blocking-scroll-by-default-passive-true-fixes-it-24lf) &nbsp;<sub>Nov 6, 2026</sub>
-- [NestJS 12.2: Why validationError.target Is Now undefined](https://dev.to/parsajiravand/nestjs-122-why-validationerrortarget-is-now-undefined-53n6) &nbsp;<sub>Nov 6, 2026</sub>
 <!-- BLOG-POST-LIST:END -->
 
 📖 [Read everything on dev.to →](https://dev.to/parsajiravand)
