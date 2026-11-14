@@ -1,6 +1,6 @@
 <div align="center">
 
-# Parsa Jiravand
+# Parsa J
 
 <a href="https://dev.to/parsajiravand">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3200&pause=900&color=4FC08D&center=true&vCenter=true&width=680&lines=Full-stack+developer+%E2%80%94+Vue%2C+Nuxt%2C+React%2C+Node;I+ship+an+npm+package+every+week;I+publish+a+dev.to+post+every+day;Small+libraries+that+solve+one+problem+well" alt="Full-stack developer — Vue, Nuxt, React, Node. Ships an npm package every week and a dev.to post every day." />
