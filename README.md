@@ -62,12 +62,12 @@ these numbers stay current on their own.
 
 ## Latest from dev.to
 
-<!-- BLOG-POST-LIST:START -->- [Your `setTimeout&lpar;fn, 0&rpar;` Doesn&#39;t Run Next. `queueMicrotask` Does.](https://dev.to/parsajiravand/your-settimeoutfn-0-doesnt-run-next-queuemicrotask-does-423n) &nbsp;<sub>Nov 10, 2026</sub>
+<!-- BLOG-POST-LIST:START -->- [I Was Shipping Five Font Files. One Variable Font Replaced Them All.](https://dev.to/parsajiravand/i-was-shipping-five-font-files-one-variable-font-replaced-them-all-67b) &nbsp;<sub>Nov 15, 2026</sub>
+- [You&#39;re the new senior hire, and there&#39;s no ramp for that](https://dev.to/parsajiravand/youre-the-new-senior-hire-and-theres-no-ramp-for-that-4fgj) &nbsp;<sub>Nov 15, 2026</sub>
+- [My Duration Formatter Broke in French. Intl.DurationFormat Doesn&#39;t.](https://dev.to/parsajiravand/my-duration-formatter-broke-in-french-intldurationformat-doesnt-56gl) &nbsp;<sub>Nov 15, 2026</sub>
+- [overflow: hidden breaks position: sticky. overflow: clip doesn&#39;t.](https://dev.to/parsajiravand/overflow-hidden-breaks-position-sticky-overflow-clip-doesnt-2ilh) &nbsp;<sub>Nov 15, 2026</sub>
+- [Your `setTimeout&lpar;fn, 0&rpar;` Doesn&#39;t Run Next. `queueMicrotask` Does.](https://dev.to/parsajiravand/your-settimeoutfn-0-doesnt-run-next-queuemicrotask-does-423n) &nbsp;<sub>Nov 10, 2026</sub>
 - [Next.js 16.4.5: How unstable_cache Leaked Data Across Root Params](https://dev.to/parsajiravand/nextjs-1645-how-unstablecache-leaked-data-across-root-params-1om0) &nbsp;<sub>Nov 10, 2026</sub>
-- [Vue Teleport defer: The Target-Timing Bug Behind a Dozen Patches](https://dev.to/parsajiravand/vue-teleport-defer-the-target-timing-bug-behind-a-dozen-patches-22p9) &nbsp;<sub>Nov 9, 2026</sub>
-- [Stop Blaming `prefers-color-scheme` For Your Theme Flash](https://dev.to/parsajiravand/stop-blaming-prefers-color-scheme-for-your-theme-flash-40oi) &nbsp;<sub>Nov 9, 2026</sub>
-- [Stop Writing JavaScript to Open Dialogs. `commandfor` Fixes It.](https://dev.to/parsajiravand/stop-writing-javascript-to-open-dialogs-commandfor-fixes-it-5ddg) &nbsp;<sub>Nov 8, 2026</sub>
-- [Stop Shipping Search Boxes With a Race Condition](https://dev.to/parsajiravand/stop-shipping-search-boxes-with-a-race-condition-169g) &nbsp;<sub>Nov 7, 2026</sub>
 <!-- BLOG-POST-LIST:END -->
 
 📖 [Read everything on dev.to →](https://dev.to/parsajiravand)
