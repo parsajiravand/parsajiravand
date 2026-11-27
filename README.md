@@ -62,12 +62,12 @@ these numbers stay current on their own.
 
 ## Latest from dev.to
 
-<!-- BLOG-POST-LIST:START -->- [NestJS APP_FILTER Scope: Why Your Global Filter Might Not Fire](https://dev.to/parsajiravand/nestjs-appfilter-scope-why-your-global-filter-might-not-fire-51hd) &nbsp;<sub>Nov 21, 2026</sub>
-- [Your Sticky Header Is Hiding Anchor Links. `scroll-margin-top` Fixes It.](https://dev.to/parsajiravand/your-sticky-header-is-hiding-anchor-links-scroll-margin-top-fixes-it-4d40) &nbsp;<sub>Nov 21, 2026</sub>
-- [I Was Shipping Five Font Files. One Variable Font Replaced Them All.](https://dev.to/parsajiravand/i-was-shipping-five-font-files-one-variable-font-replaced-them-all-67b) &nbsp;<sub>Nov 15, 2026</sub>
-- [You&#39;re the new senior hire, and there&#39;s no ramp for that](https://dev.to/parsajiravand/youre-the-new-senior-hire-and-theres-no-ramp-for-that-4fgj) &nbsp;<sub>Nov 15, 2026</sub>
-- [My Duration Formatter Broke in French. Intl.DurationFormat Doesn&#39;t.](https://dev.to/parsajiravand/my-duration-formatter-broke-in-french-intldurationformat-doesnt-56gl) &nbsp;<sub>Nov 15, 2026</sub>
-- [overflow: hidden breaks position: sticky. overflow: clip doesn&#39;t.](https://dev.to/parsajiravand/overflow-hidden-breaks-position-sticky-overflow-clip-doesnt-2ilh) &nbsp;<sub>Nov 15, 2026</sub>
+<!-- BLOG-POST-LIST:START -->- [`use&lpar;&rpar;` Breaks the Rules of Hooks on Purpose. Here&#39;s the Catch.](https://dev.to/parsajiravand/use-breaks-the-rules-of-hooks-on-purpose-heres-the-catch-2d5i) &nbsp;<sub>Nov 27, 2026</sub>
+- [Template Literal Types Explained: Catching Path Typos at Compile Time](https://dev.to/parsajiravand/template-literal-types-explained-catching-path-typos-at-compile-time-4f7) &nbsp;<sub>Nov 27, 2026</sub>
+- [The negotiation doesn&#39;t start until there&#39;s an offer on paper](https://dev.to/parsajiravand/the-negotiation-doesnt-start-until-theres-an-offer-on-paper-5b3j) &nbsp;<sub>Nov 27, 2026</sub>
+- [Your WebSocket Reconnects Fine. The Messages It Missed Never Do.](https://dev.to/parsajiravand/your-websocket-reconnects-fine-the-messages-it-missed-never-do-924) &nbsp;<sub>Nov 27, 2026</sub>
+- [Next.js 16 use cache: remote vs use cache: private](https://dev.to/parsajiravand/nextjs-16-use-cache-remote-vs-use-cache-private-5amm) &nbsp;<sub>Nov 27, 2026</sub>
+- [TypeScript Type Narrowing: The Complete Guide](https://dev.to/parsajiravand/typescript-type-narrowing-the-complete-guide-52mi) &nbsp;<sub>Nov 27, 2026</sub>
 <!-- BLOG-POST-LIST:END -->
 
 📖 [Read everything on dev.to →](https://dev.to/parsajiravand)
